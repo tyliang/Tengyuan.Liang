@@ -1,0 +1,53 @@
++++
+title = "Princeton"
+date = 2018-02-19T22:05:11-06:00  # Schedule page publish date.
+draft = false
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+time_start = 2018-03-23T15:00:00-06:00
+# time_end = 2018-02-19T22:00:47-06:00
+
+# Abstract and optional shortened version.
+abstract = "We discuss the statistical and computational theory for Generative Adversarial Networks (GANs) in this talk. On the statistical side, we study the rate of convergence for learning densities under the GANs framework, borrowing insights from nonparametric statistics. We introduce an improved GAN estimator that achieves a faster rate, through leveraging the level of smoothness in the target density and the evaluation metric, which in theory remedies the mode collapse problem reported in the literature. A minimax lower bound is constructed to show that when the dimension is large, the exponent in the rate for the new GAN estimator is near optimal. As a byproduct, we also obtain improved bounds for GAN with deeper ReLU discriminator network. On the computational and algorithmic side, we present a simple yet unified non-asymptotic local convergence theory for smooth two-player games, which subsumes several discrete-time saddle point dynamics. The analysis reveals the surprising nature of the off-diagonal interaction term as both a blessing and a curse. On the one hand, this interaction term explains the origin of the slow-down effect in the convergence of Simultaneous Gradient Ascent (SGA) to stable Nash equilibria. On the other hand, for the unstable equilibria, exponential convergence can be proved thanks to the interaction term, for three modified dynamics which have been proposed to stabilize GAN training: Optimistic Mirror Descent (OMD), Consensus Optimization (CO) and Predictive Method (PM). The analysis uncovers the intimate connections among these stabilizing techniques, and provides detailed characterization on the choice of learning rate."
+abstract_short = ""
+
+# Name of event and optional event URL.
+event = "CISS 2018, statistical learning invited session"
+event_url = "http://ee-ciss.princeton.edu"
+
+# Location of event.
+location = "FP-03 Room F008"
+
+# Is this a selected talk? (true/false)
+selected = true
+
+# Projects (optional).
+#   Associate this talk with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+projects = []
+
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["Information Sciences and Systems", "Statistical Learning"]
+
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Does the content use math formatting?
+math = false
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
++++
