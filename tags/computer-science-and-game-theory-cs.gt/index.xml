@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer Science and Game Theory (cs.GT) on Tengyuan Liang</title>
-    <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/tags/computer-science-and-game-theory-cs.gt/</link>
+    <link>http://tyliang.github.io/Tengyuan.Liang/tags/computer-science-and-game-theory-cs.gt/</link>
     <description>Recent content in Computer Science and Game Theory (cs.GT) on Tengyuan Liang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 02 Jan 2019 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="http://faculty.chicagobooth.edu/Tengyuan.Liang/tags/computer-science-and-game-theory-cs.gt/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tyliang.github.io/Tengyuan.Liang/tags/computer-science-and-game-theory-cs.gt/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Interaction Matters: A Note on Non-asymptotic Local Convergence of Generative Adversarial Networks</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/10-opt-gan/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/10-opt-gan/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 -0600</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/10-opt-gan/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/10-opt-gan/</guid>
       <description></description>
     </item>
     

@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Tengyuan Liang</title>
-    <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/</link>
+    <link>http://tyliang.github.io/Tengyuan.Liang/home/</link>
     <description>Recent content in Homes on Tengyuan Liang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Sep 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://faculty.chicagobooth.edu/Tengyuan.Liang/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tyliang.github.io/Tengyuan.Liang/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/about/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/about/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/about/</guid>
       <description>Biography Dr. Liang is an assistant professor at Chicago Booth. He is also the George C. Tiao faculty fellow in data science research.
 His current research interests include computational and algorithmic aspects of statistical inference, machine learning and statistical learning theory, stochastic methods in non-convex optimization.</description>
     </item>
     
     <item>
       <title>Preprints</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/publications_selected/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/publications_selected/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/publications/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/publications/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/teaching/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/teaching/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/teaching/</guid>
       <description>Booth:
  41000 (MBA): Business Statistics: Fall 18, Spring 18
  Data Science Reading Group
@@ -55,10 +55,10 @@ His current research interests include computational and algorithmic aspects of 
     
     <item>
       <title>Awards</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/awards/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/awards/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/awards/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/awards/</guid>
       <description> George C. Tiao Faculty Fellowship, 2017-2018
 for research in computational and data science
  J. Parker Memorial Bursk Award, 2016
@@ -71,46 +71,46 @@ the highest honorific fellowship awarded by the Wharton School
     
     <item>
       <title>Projects</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/projects/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/projects/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/posts/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/posts/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshops &amp; Talks</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/talks/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/talks/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/tags/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/tags/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/contact/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/home/contact/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/contact/</guid>
       <description></description>
     </item>
     

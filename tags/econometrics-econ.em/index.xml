@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Econometrics (econ.EM) on Tengyuan Liang</title>
-    <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/tags/econometrics-econ.em/</link>
+    <link>http://tyliang.github.io/Tengyuan.Liang/tags/econometrics-econ.em/</link>
     <description>Recent content in Econometrics (econ.EM) on Tengyuan Liang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 24 Sep 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://faculty.chicagobooth.edu/Tengyuan.Liang/tags/econometrics-econ.em/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tyliang.github.io/Tengyuan.Liang/tags/econometrics-econ.em/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deep Neural Networks for Estimation and Inference: Application to Causal Effects and Other Semiparametric Estimands</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/deep-ate/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/deep-ate/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/deep-ate/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/deep-ate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CityU Hong Kong</title>
-      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/talk/2018-06-21-cityu/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/talk/2018-06-21-cityu/</link>
       <pubDate>Thu, 21 Jun 2018 23:11:04 +0800</pubDate>
       
-      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/talk/2018-06-21-cityu/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/talk/2018-06-21-cityu/</guid>
       <description></description>
     </item>
     
