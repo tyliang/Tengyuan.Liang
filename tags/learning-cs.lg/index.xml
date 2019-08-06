@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning (cs.LG) on Tengyuan Liang</title>
+    <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/tags/learning-cs.lg/</link>
+    <description>Recent content in Learning (cs.LG) on Tengyuan Liang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://faculty.chicagobooth.edu/Tengyuan.Liang/tags/learning-cs.lg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Just Interpolate: Kernel &#39;&#39;Ridgeless&#39;&#39; Regression Can Generalize</title>
+      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/12-interpolation/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/12-interpolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits</title>
+      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/kernel-nn/</link>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/kernel-nn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction Matters: A Note on Non-asymptotic Local Convergence of Generative Adversarial Networks</title>
+      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/10-opt-gan/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/10-opt-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fisher-Rao Metric, Geometry, and Complexity of Neural Networks</title>
+      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/9-fisher-rao/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/9-fisher-rao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On How Well Generative Adversarial Networks Learn Densities: Nonparametric and Parametric Results</title>
+      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/nonparam-gan/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/nonparam-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Neural Networks for Estimation and Inference: Application to Causal Effects and Other Semiparametric Estimands</title>
+      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/deep-ate/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/deep-ate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local Optimality and Generalization Guarantees for the Langevin Algorithm via Empirical Metastability</title>
+      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/8-metastability/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/8-metastability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Feature Selection: Computationally Efficient Online Sparse Linear Regression under RIP</title>
+      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/7-online-sparse-regression/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/7-online-sparse-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Square Loss: Localization through Offset Rademacher Complexity</title>
+      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/3-offset-rademacher/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/3-offset-rademacher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Escaping the Local Minima via Simulated Annealing: Optimization of Approximately Convex Functions</title>
+      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/2-approx-log-concave/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/publication/2-approx-log-concave/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Learning on Tengyuan Liang</title>
+    <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/tags/statistical-learning/</link>
+    <description>Recent content in Statistical Learning on Tengyuan Liang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 19 Feb 2018 22:05:11 -0600</lastBuildDate>
+    
+	<atom:link href="http://faculty.chicagobooth.edu/Tengyuan.Liang/tags/statistical-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Princeton</title>
+      <link>http://faculty.chicagobooth.edu/Tengyuan.Liang/talk/2018-03-23-princeton/</link>
+      <pubDate>Mon, 19 Feb 2018 22:05:11 -0600</pubDate>
+      
+      <guid>http://faculty.chicagobooth.edu/Tengyuan.Liang/talk/2018-03-23-princeton/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
