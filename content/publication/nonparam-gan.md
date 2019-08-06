@@ -42,7 +42,7 @@ projects = ["deep-learning", "stat-learning", "high-dim-statistics"]
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)"]
 
 # Links (optional).
-url_pdf = "https://tyliang.github.io/Tengyuan.Liang/pdf/arxiv_stat_gan.pdf"
+url_pdf = "pdf/arxiv_stat_gan.pdf"
 url_preprint = "http://arxiv.org/abs/1811.03179"
 # url_preprint = "https://arxiv.org/abs/1712.08244" old arxiv version
 url_code = ""

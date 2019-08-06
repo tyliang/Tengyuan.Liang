@@ -42,7 +42,7 @@ projects = ["deep-learning", "stat-learning", "high-dim-statistics"]
 tags = ["Statistics Theory (math.ST)", "Learning (cs.LG)", "Machine Learning (stat.ML)"]
 
 # Links (optional).
-url_pdf = "https://tyliang.github.io/Tengyuan.Liang/pdf/arxiv_interpolation.pdf"
+url_pdf = "pdf/arxiv_interpolation.pdf"
 url_preprint = "https://arxiv.org/abs/1808.00387"
 url_code = ""
 url_dataset = ""

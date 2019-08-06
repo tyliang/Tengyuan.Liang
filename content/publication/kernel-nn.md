@@ -42,7 +42,7 @@ projects = ["deep-learning", "stat-learning", "high-dim-statistics"]
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Optimization and Control (math.OC)"]
 
 # Links (optional).
-url_pdf = "https://tyliang.github.io/Tengyuan.Liang/pdf/arxiv_kernel_nn.pdf"
+url_pdf = "pdf/arxiv_kernel_nn.pdf"
 url_preprint = "https://arxiv.org/abs/1901.07114"
 url_code = ""
 url_dataset = ""

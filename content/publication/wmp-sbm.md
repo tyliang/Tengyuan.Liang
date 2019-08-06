@@ -42,7 +42,7 @@ projects = ["computation-statistics-boundaries"]
 tags = ["Statistics Theory (math.ST)", "Machine Learning (stat.ML)", "Probability (math.PR)"]
 
 # Links (optional).
-url_pdf = "https://tyliang.github.io/Tengyuan.Liang/pdf/arxiv_wmp_sbm.pdf"
+url_pdf = "pdf/arxiv_wmp_sbm.pdf"
 url_preprint = "https://arxiv.org/abs/1709.03907"
 url_code = ""
 url_dataset = ""
