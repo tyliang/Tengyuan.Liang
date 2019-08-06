@@ -42,7 +42,7 @@ projects = ["stochastic-optimization", "stat-learning"]
 tags = ["Machine Learning (stat.ML)", "Statistics Theory (math.ST)", "Methodology (stat.ME)", "Optimization and Control (math.OC)"]
 
 # Links (optional).
-url_pdf = "pdf/arxiv_mas_grad.pdf"
+url_pdf = "https://tyliang.github.io/Tengyuan.Liang/pdf/arxiv_mas_grad.pdf"
 url_preprint = "https://arxiv.org/abs/1712.07519"
 url_code = ""
 url_dataset = ""
