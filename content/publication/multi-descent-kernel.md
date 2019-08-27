@@ -1,5 +1,5 @@
 +++
-title = "On Risk of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels"
+title = "On the Risk of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels"
 date = 2019-08-25
 draft = false
 
@@ -22,7 +22,7 @@ publication = "arXiv:"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We study the risk of minimum-norm interpolants of data in a Reproducing Kernel Hilbert Space where kernel defined as a function of an inner product. Our upper bounds on the risk are of a multiple-descent shape for the various scalings of $d = n^{\\alpha}$, $\\alpha\\in(0,1)$. At the heart of our analysis is a study of spectral properties of the random kernel matrix restricted to a filtration of eigen-spaces of the population covariance operator."
+abstract = "We study the risk of minimum-norm interpolants of data in a Reproducing Kernel Hilbert Space where kernel is defined as a function of the inner product. Our upper bounds on the risk are of a \\emph{multiple-descent} shape for the various scalings of $d = n^{\\alpha}$, $\\alpha\\in(0,1)$, for the input dimension $d$ and sample size $n$. At the heart of our analysis is a study of spectral properties of the random kernel matrix restricted to a filtration of eigen-spaces of the population covariance operator. Since gradient flow on appropriately initialized wide neural networks converges to a minimum-norm interpolant, the analysis also yields estimation guarantees for these models."
 abstract_short = ""
 
 # Featured image thumbnail (optional)

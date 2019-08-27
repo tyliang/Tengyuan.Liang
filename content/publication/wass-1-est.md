@@ -1,5 +1,5 @@
 +++
-title = "On Minimax Optimality of Estimating the Wasserstein Metric"
+title = "On the Minimax Optimality of Estimating the Wasserstein Metric"
 date = 2019-08-26
 draft = false
 
