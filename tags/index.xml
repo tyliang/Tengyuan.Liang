@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://tyliang.github.io/Tengyuan.Liang/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Learning (cs.LG)</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/tags/learning-cs.lg/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/tags/learning-cs.lg/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Machine Learning (stat.ML)</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/tags/machine-learning-stat.ml/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/tags/machine-learning-stat.ml/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Statistics Theory (math.ST)</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/tags/statistics-theory-math.st/</link>
-      <pubDate>Mon, 08 Apr 2019 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/tags/statistics-theory-math.st/</guid>
       <description></description>
@@ -90,6 +90,15 @@
       <pubDate>Tue, 18 Dec 2018 07:06:39 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/tags/economic-and-business-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/tags/data-science/</link>
+      <pubDate>Mon, 10 Dec 2018 14:23:43 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/tags/data-science/</guid>
       <description></description>
     </item>
     

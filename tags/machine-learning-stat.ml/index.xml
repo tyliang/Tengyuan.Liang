@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://tyliang.github.io/Tengyuan.Liang/tags/machine-learning-stat.ml/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On Minimax Optimality of Estimating the Wasserstein Metric</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/wass-1-est/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/wass-1-est/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Risk of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/multi-descent-kernel/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/multi-descent-kernel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Just Interpolate: Kernel &#39;&#39;Ridgeless&#39;&#39; Regression Can Generalize</title>
