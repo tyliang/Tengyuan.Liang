@@ -18,7 +18,7 @@ authors = ["**Tengyuan Liang**", "Alexander Rakhlin", "Xiyu Zhai"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:"
+publication = "arXiv:1908.10292"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (ma
 
 # Links (optional).
 url_pdf = "pdf/arxiv_multi_descent_kernel.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/1908.10292"
 url_code = ""
 url_dataset = ""
 url_project = ""
