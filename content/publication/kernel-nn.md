@@ -1,6 +1,6 @@
 +++
 title = "Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits"
-date = 2019-01-19
+date = 2019-07-19
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
