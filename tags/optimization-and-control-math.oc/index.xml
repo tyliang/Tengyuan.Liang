@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 17 Feb 2019 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="http://tyliang.github.io/Tengyuan.Liang/tags/optimization-and-control-math.oc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/kernel-nn/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/kernel-nn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Statistical Inference for the Population Landscape via Moment Adjusted Stochastic Gradients</title>
@@ -18,15 +27,6 @@
       <pubDate>Sun, 17 Feb 2019 00:00:00 -0600</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/11-infer-ma-sgd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/kernel-nn/</link>
-      <pubDate>Sat, 19 Jan 2019 00:00:00 -0600</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/kernel-nn/</guid>
       <description></description>
     </item>
     
