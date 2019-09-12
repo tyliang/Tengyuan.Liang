@@ -8,7 +8,7 @@ title = "Workshops & Talks"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 25
+weight = 50
 
 # Number of talks to list.
 count = 5
