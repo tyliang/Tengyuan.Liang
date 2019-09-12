@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tengyuan Liang on Tengyuan Liang</title>
@@ -6,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -119,10 +120,10 @@
     
     <item>
       <title>Yale</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/talk/2019-09-09-yale/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/talk/2019-09-11-yale/</link>
       <pubDate>Mon, 10 Dec 2018 14:23:43 -0600</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/talk/2019-09-09-yale/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/talk/2019-09-11-yale/</guid>
       <description></description>
     </item>
     

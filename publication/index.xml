@@ -8,9 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://tyliang.github.io/Tengyuan.Liang/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/Tengyuan.Liang/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>On the Minimax Optimality of Estimating the Wasserstein Metric</title>
@@ -144,33 +142,6 @@
       <pubDate>Mon, 01 Aug 2016 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/4-geomtric-inference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning with Square Loss: Localization through Offset Rademacher Complexity</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/3-offset-rademacher/</link>
-      <pubDate>Thu, 02 Jul 2015 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/3-offset-rademacher/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Escaping the Local Minima via Simulated Annealing: Optimization of Approximately Convex Functions</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/2-approx-log-concave/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/2-approx-log-concave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Law of Log Determinant of Sample Covariance Matrix and Optimal Estimation of Differential Entropy for High-Dimensional Gaussian Distributions</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/1-log-determinant-cov/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/1-log-determinant-cov/</guid>
       <description></description>
     </item>
     
