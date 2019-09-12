@@ -6,6 +6,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication_types/3/</loc>
       <lastmod>2019-08-26T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -15,6 +16,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/learning-cs.lg/</loc>
       <lastmod>2019-08-26T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -24,6 +26,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/machine-learning-stat.ml/</loc>
       <lastmod>2019-08-26T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -42,6 +45,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication_types/</loc>
       <lastmod>2019-08-26T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -51,6 +55,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/statistics-theory-math.st/</loc>
       <lastmod>2019-08-26T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -60,6 +65,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/</loc>
       <lastmod>2019-08-26T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -69,6 +75,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/</loc>
       <lastmod>2019-08-26T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -87,6 +94,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/optimization-and-control-math.oc/</loc>
       <lastmod>2019-07-19T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -105,6 +113,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication_types/2/</loc>
       <lastmod>2019-04-08T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -123,6 +132,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/methodology-stat.me/</loc>
       <lastmod>2019-02-17T00:00:00-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -141,6 +151,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication_types/1/</loc>
       <lastmod>2019-01-02T00:00:00-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -150,6 +161,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/computer-science-and-game-theory-cs.gt/</loc>
       <lastmod>2019-01-02T00:00:00-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -168,6 +180,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/artificial-intelligence-cs.ai/</loc>
       <lastmod>2019-01-01T00:00:00-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -186,6 +199,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/big-data/</loc>
       <lastmod>2018-12-18T07:06:39+08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -195,6 +209,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/economic-and-business-applications/</loc>
       <lastmod>2018-12-18T07:06:39+08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -222,6 +237,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/data-science/</loc>
       <lastmod>2018-12-10T14:23:43-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -231,6 +247,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/economics/</loc>
       <lastmod>2018-12-10T14:23:43-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -239,15 +256,6 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/talk/2019-09-16-harvard/</loc>
-      <lastmod>2018-12-10T14:23:43-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://tyliang.github.io/Tengyuan.Liang/tags/machine-learning/</loc>
       <lastmod>2018-12-10T14:23:43-06:00</lastmod>
     </url>
     
@@ -265,8 +273,19 @@
     
     <url>
     
+      <loc>http://tyliang.github.io/Tengyuan.Liang/tags/machine-learning/</loc>
+      <lastmod>2018-12-10T14:23:43-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/statistics/</loc>
       <lastmod>2018-12-10T14:23:43-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -276,6 +295,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/stochastics/</loc>
       <lastmod>2018-12-10T14:23:43-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -321,6 +341,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/econometrics-econ.em/</loc>
       <lastmod>2018-09-24T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -339,6 +360,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/data/</loc>
       <lastmod>2018-09-21T13:40:16-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -348,6 +370,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/inference/</loc>
       <lastmod>2018-09-21T13:40:16-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -357,6 +380,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/learning/</loc>
       <lastmod>2018-09-21T13:40:16-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -375,6 +399,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/project/</loc>
       <lastmod>2018-09-19T18:32:31-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -384,6 +409,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/decision-science/</loc>
       <lastmod>2018-07-16T14:42:22-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -420,6 +446,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/probability-math.pr/</loc>
       <lastmod>2018-07-06T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -438,6 +465,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/scalability/</loc>
       <lastmod>2018-06-25T21:50:24-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -447,6 +475,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/business-statistics/</loc>
       <lastmod>2018-06-21T23:11:12+08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -465,6 +494,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/information-systems/</loc>
       <lastmod>2018-06-21T23:11:12+08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -474,6 +504,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/operations-research/</loc>
       <lastmod>2018-06-21T23:11:12+08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -492,6 +523,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/econometrics/</loc>
       <lastmod>2018-06-21T23:11:04+08:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -510,6 +542,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/information-sciences-and-systems/</loc>
       <lastmod>2018-02-19T22:05:11-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -528,6 +561,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/statistical-learning/</loc>
       <lastmod>2018-02-19T22:05:11-06:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -672,6 +706,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/numerical-analysis-cs.na/</loc>
       <lastmod>2015-07-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -681,6 +716,7 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/information-theory-cs.it/</loc>
       <lastmod>2015-05-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -707,6 +743,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/categories/</loc>
+      <priority>0</priority>
     </url>
     
   
