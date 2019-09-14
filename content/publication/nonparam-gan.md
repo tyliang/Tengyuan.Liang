@@ -1,6 +1,6 @@
 +++
 title = "On How Well Generative Adversarial Networks Learn Densities: Nonparametric and Parametric Results"
-date = 2018-11-07
+date = 2019-06-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
