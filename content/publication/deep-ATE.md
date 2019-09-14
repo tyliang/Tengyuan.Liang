@@ -1,6 +1,6 @@
 +++
 title = "Deep Neural Networks for Estimation and Inference: Application to Causal Effects and Other Semiparametric Estimands"
-date = 2018-09-24
+date = 2019-05-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
