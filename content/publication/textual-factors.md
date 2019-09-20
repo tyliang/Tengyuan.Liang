@@ -1,7 +1,7 @@
 +++
 title = "Textual Factors: A Scalable, Interpretable, and Data-driven Approach to Analyzing Unstructured Information"
 date = 2018-07-01
-draft = true
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Lin William Cong", "**Tengyuan Liang**", "Xiao Zhang"]
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
