@@ -270,7 +270,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "https://www.dropbox.com/s/zbwajpkv2isv6jn/Liang-CV.pdf?dl=0"
+  url = "pdf/Liang-CV.pdf"
   weight = 2.5
 
 [[menu.main]]
