@@ -15,10 +15,10 @@ authors = ["T. Tony Cai", "**Tengyuan Liang**", "Alexander Rakhlin"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:1709.03907"
+publication = "Journal of Machine Learning Research, accept after minor revision"
 publication_short = ""
 
 # Abstract and optional shortened version.
