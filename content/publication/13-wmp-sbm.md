@@ -18,7 +18,7 @@ authors = ["T. Tony Cai", "**Tengyuan Liang**", "Alexander Rakhlin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Machine Learning Research, accept after minor revision"
+publication = "Journal of Machine Learning Research, conditionally accepted"
 publication_short = ""
 
 # Abstract and optional shortened version.
