@@ -1,6 +1,6 @@
 +++
 title = "Weighted Message Passing and Minimum Energy Flow for Heterogeneous Stochastic Block Models with Side Information"
-date = 2017-09-12
+date = 2019-01-03
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
