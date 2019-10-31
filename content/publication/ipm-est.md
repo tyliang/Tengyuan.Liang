@@ -1,6 +1,6 @@
 +++
-title = "On the Minimax Optimality of Estimating the Wasserstein Metric"
-date = 2019-08-26
+title = "Estimating Certain Integral Probability Metric (IPM) Is as Hard as Estimating under the IPM"
+date = 2019-10-26
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication = "arXiv:1908.10324"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We study the minimax optimal rate for estimating the Wasserstein-$1$ metric between two unknown probability measures based on $n$ i.i.d. empirical samples from them. We show that estimating the Wasserstein metric itself between probability measures, is not significantly easier than estimating the probability measures under the Wasserstein metric. We prove that the minimax optimal rates for these two problems are multiplicatively equivalent, up to a $\\log \\log (n)/\\log (n)$ factor."
+abstract = "We study the minimax optimal rates for estimating a range of Integral Probability Metrics (IPMs) between two unknown probability measures, based on $n$ independent samples from them. Curiously, we show that estimating the IPM itself between probability measures, is not significantly easier than estimating the probability measures under the IPM. We prove that the minimax optimal rates for these two problems are multiplicatively equivalent, up to a $\log \log (n)/\log (n)$ factor."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -42,8 +42,8 @@ projects = ["stat-learning", "high-dim-statistics"]
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)"]
 
 # Links (optional).
-url_pdf = "pdf/arxiv_wass_est.pdf"
-url_preprint = "https://arxiv.org/abs/1908.10324"
+url_pdf = "pdf/ipm_est.pdf"
+url_preprint = "https://arxiv.org/abs/"
 url_code = ""
 url_dataset = ""
 url_project = ""
