@@ -18,18 +18,18 @@ authors = ["**Tengyuan Liang**"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:1908.10324"
+publication = "arXiv:1910."
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We study the minimax optimal rates for estimating a range of Integral Probability Metrics (IPMs) between two unknown probability measures, based on $n$ independent samples from them. Curiously, we show that estimating the IPM itself between probability measures, is not significantly easier than estimating the probability measures under the IPM. We prove that the minimax optimal rates for these two problems are multiplicatively equivalent, up to a $\log \log (n)/\log (n)$ factor."
+abstract = "We study the minimax optimal rates for estimating a range of Integral Probability Metrics (IPMs) between two unknown probability measures, based on $n$ independent samples from them. Curiously, we show that estimating the IPM itself between probability measures, is not significantly easier than estimating the probability measures under the IPM. We prove that the minimax optimal rates for these two problems are multiplicatively equivalent, up to a $\\log \\log (n)/\\log (n)$ factor."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
