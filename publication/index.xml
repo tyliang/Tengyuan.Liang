@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/Tengyuan.Liang/publication/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://tyliang.github.io/Tengyuan.Liang/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Estimating Certain Integral Probability Metric (IPM) Is as Hard as Estimating under the IPM</title>
@@ -142,6 +144,51 @@
       <pubDate>Tue, 01 Aug 2017 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/6-submatrix-localization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Detection and Structural Reconstruction of Small-World Random Networks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/5-small-world/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/5-small-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric Inference for General High-Dimensional Linear Inverse Problems</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/4-geomtric-inference/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/4-geomtric-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Square Loss: Localization through Offset Rademacher Complexity</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/3-offset-rademacher/</link>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/3-offset-rademacher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Escaping the Local Minima via Simulated Annealing: Optimization of Approximately Convex Functions</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/2-approx-log-concave/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/2-approx-log-concave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Law of Log Determinant of Sample Covariance Matrix and Optimal Estimation of Differential Entropy for High-Dimensional Gaussian Distributions</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/1-log-determinant-cov/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/1-log-determinant-cov/</guid>
       <description></description>
     </item>
     

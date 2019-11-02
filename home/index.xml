@@ -8,7 +8,111 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/Tengyuan.Liang/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://tyliang.github.io/Tengyuan.Liang/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/about/</guid>
+      <description>Biography Dr. Liang is an assistant professor at Chicago Booth. He is also the George C. Tiao faculty fellow in data science research.
+His current research interests include computational and algorithmic aspects of statistical inference, machine learning and statistical learning theory, stochastic methods in non-convex optimization.</description>
+    </item>
+    
+    <item>
+      <title>Preprints</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops &amp; Talks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/teaching/</guid>
+      <description>Booth:
+ 41000 (MBA): Business Statistics: Fall 19, Fall 18, Spring 18
+ Data Science Reading Group
+  Wharton:
+ 622 (MBA): Advanced Quantitative Modeling: Spring 15, Spring 14  </description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/awards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/awards/</guid>
+      <description> George C. Tiao Faculty Fellowship, 2017-2018
+for research in computational and data science
+ J. Parker Memorial Bursk Award, 2016
+for excellence in research
+ US Junior Oberwolfach Fellow, 2015
+ Winkelman Fellowship, 2014-2017
+the highest honorific fellowship awarded by the Wharton School
+  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
