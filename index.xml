@@ -11,6 +11,15 @@
     <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Precise High-Dimensional Asymptotic Theory for Boosting and Min-L1-Norm Interpolated Classifiers</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/max-l1-margin/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/max-l1-margin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estimating Certain Integral Probability Metric (IPM) Is as Hard as Estimating under the IPM</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/ipm-est/</link>
       <pubDate>Sat, 26 Oct 2019 00:00:00 -0500</pubDate>
@@ -20,16 +29,7 @@
     </item>
     
     <item>
-      <title>On the Minimax Optimality of Estimating the Wasserstein Metric</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/wass-1-est/</link>
-      <pubDate>Mon, 26 Aug 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/wass-1-est/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Risk of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels</title>
+      <title>On the Multiple Descent of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/multi-descent-kernel/</link>
       <pubDate>Sun, 25 Aug 2019 00:00:00 -0500</pubDate>
       
