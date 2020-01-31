@@ -1,10 +1,10 @@
 +++
-title = "On the Minimax Optimality of Estimating the Wasserstein Metric"
-date = 2019-08-26
+title = "A Precise High-Dimensional Asymptotic Theory for Boosting and Min-L1-Norm Interpolated Classifiers"
+date = 2020-01-31
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Tengyuan Liang**"]
+authors = ["**Tengyuan Liang**", "Pragya Sur"]
 
 # Publication type.
 # Legend:
@@ -18,18 +18,18 @@ authors = ["**Tengyuan Liang**"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:1908.10324"
+publication = "arXiv:"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We study the minimax optimal rate for estimating the Wasserstein-$1$ metric between two unknown probability measures based on $n$ i.i.d. empirical samples from them. We show that estimating the Wasserstein metric itself between probability measures, is not significantly easier than estimating the probability measures under the Wasserstein metric. We prove that the minimax optimal rates for these two problems are multiplicatively equivalent, up to a $\\log \\log (n)/\\log (n)$ factor."
+abstract = "This paper establishes a precise high-dimensional asymptotic theory for Boosting on separable data, taking statistical and computational perspectives. We consider the setting where the number of features (weak learners) $p$ scales with the sample size $n$, in an over-parametrized regime. On the statistical front, we provide an exact analysis of the generalization error of Boosting, when the algorithm interpolates the training data and maximizes an empirical $L_1$ margin. The angle between the Boosting solution and the ground truth is characterized explicitly. On the computational front, we provide a sharp analysis of the stopping time when Boosting approximately maximizes the empirical $L_1$ margin. Furthermore we discover that, the larger the margin, the smaller the proportion of active features (with zero initialization). At the heart of our theory lies a detailed study of the maximum $L_1$ margin, using tools from convex geometry. The maximum $L_1$ margin can be precisely described by a new system of non-linear equations, which we study using a novel uniform deviation argument. Preliminary numerical results are presented to demonstrate the accuracy of our theory."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,8 +42,8 @@ projects = ["stat-learning", "high-dim-statistics"]
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)"]
 
 # Links (optional).
-url_pdf = "pdf/arxiv_wass_est.pdf"
-url_preprint = "https://arxiv.org/abs/1908.10324"
+url_pdf = "pdf/Liang-Sur-20.pdf"
+url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""

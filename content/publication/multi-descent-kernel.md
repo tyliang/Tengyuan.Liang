@@ -1,5 +1,5 @@
 +++
-title = "On the Risk of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels"
+title = "On the Multiple Descent of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels"
 date = 2019-08-25
 draft = false
 
@@ -22,7 +22,7 @@ publication = "arXiv:1908.10292"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We study the risk of minimum-norm interpolants of data in a Reproducing Kernel Hilbert Space where kernel is defined as a function of the inner product. Our upper bounds on the risk are of a \\emph{multiple-descent} shape for the various scalings of $d = n^{\\alpha}$, $\\alpha\\in(0,1)$, for the input dimension $d$ and sample size $n$. At the heart of our analysis is a study of spectral properties of the random kernel matrix restricted to a filtration of eigen-spaces of the population covariance operator. Since gradient flow on appropriately initialized wide neural networks converges to a minimum-norm interpolant, the analysis also yields estimation guarantees for these models."
+abstract = "We study the risk of minimum-norm interpolants of data in Reproducing Kernel Hilbert Spaces. Our upper bounds on the risk are of a \\emph{multiple-descent} shape for the various scalings of $d = n^{\\alpha}$, $\\alpha\\in(0,1)$, for the input dimension $d$ and sample size $n$. Empirical evidence supports our finding that minimum-norm interpolants in RKHS can exhibit this unusual non-monotonicity in sample size; furthermore,  locations of the peaks in our experiments match our theoretical predictions. Since gradient flow on appropriately initialized wide neural networks converges to a minimum-norm interpolant with respect to a certain kernel, our analysis also yields novel estimation and generalization guarantees for these over-parametrized models. At the heart of our analysis is a study of spectral properties of the random kernel matrix restricted to a filtration of eigen-spaces of the population covariance operator, and may be of independent interest."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -42,7 +42,7 @@ projects = ["deep-learning","stat-learning", "high-dim-statistics"]
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)"]
 
 # Links (optional).
-url_pdf = "pdf/arxiv_multi_descent_kernel.pdf"
+url_pdf = "pdf/Liang-Rakhlin-Zhai-19.pdf"
 url_preprint = "https://arxiv.org/abs/1908.10292"
 url_code = ""
 url_dataset = ""
