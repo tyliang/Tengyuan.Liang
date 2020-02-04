@@ -43,7 +43,7 @@ tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (ma
 
 # Links (optional).
 url_pdf = "pdf/Liang-Rakhlin-Zhai-19.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/1908.10292"
 url_code = ""
 url_dataset = ""
 url_project = ""
