@@ -18,7 +18,7 @@ authors = ["**Tengyuan Liang**", "Pragya Sur"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:"
+publication = "arXiv:2002.01586"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (ma
 
 # Links (optional).
 url_pdf = "pdf/Liang-Sur-20.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/2002.01586"
 url_code = ""
 url_dataset = ""
 url_project = ""
