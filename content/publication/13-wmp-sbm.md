@@ -18,8 +18,8 @@ authors = ["T. Tony Cai", "**Tengyuan Liang**", "Alexander Rakhlin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Journal of Machine Learning Research*, to appear"
-publication_short = ""
+publication = "Journal of Machine Learning Research, vol.21 (11), 1−34"
+publication_short = "*Journal of Machine Learning Research*"
 
 # Abstract and optional shortened version.
 abstract = "We study the misclassification error for community detection in general heterogeneous stochastic block models (SBM) with noisy or partial label information. We establish a connection between the misclassification rate and the notion of minimum energy on the local neighborhood of the SBM. We develop an optimally weighted message passing algorithm to reconstruct labels for SBM based on the minimum energy flow and the eigenvectors of a certain Markov transition matrix. The general SBM considered in this paper allows for unequal-size communities, degree heterogeneity, and different connection probabilities among blocks. We focus on how to optimally weigh the message passing to improve misclassification."
@@ -42,7 +42,7 @@ projects = ["computation-statistics-boundaries"]
 tags = ["Statistics Theory (math.ST)", "Machine Learning (stat.ML)", "Probability (math.PR)"]
 
 # Links (optional).
-url_pdf = "pdf/arxiv_wmp_sbm.pdf"
+url_pdf = "http://jmlr.org/papers/v21/18-573.html"
 url_preprint = "https://arxiv.org/abs/1709.03907"
 url_code = ""
 url_dataset = ""
