@@ -1,7 +1,7 @@
 +++
 title = "Textual Factors: A Scalable, Interpretable, and Data-driven Approach to Analyzing Unstructured Information"
 date = 2018-07-01
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Lin William Cong", "**Tengyuan Liang**", "Xiao Zhang"]
