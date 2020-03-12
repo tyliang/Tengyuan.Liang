@@ -11,11 +11,29 @@
     <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Precise High-Dimensional Asymptotic Theory for Boosting and Min-L1-Norm Interpolated Classifiers</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/max-l1-margin/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/max-l1-margin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weighted Message Passing and Minimum Energy Flow for Heterogeneous Stochastic Block Models with Side Information</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/13-wmp-sbm/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/13-wmp-sbm/</guid>
       <description></description>
     </item>
     
@@ -34,15 +52,6 @@
       <pubDate>Sun, 25 Aug 2019 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/multi-descent-kernel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/kernel-nn/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/kernel-nn/</guid>
       <description></description>
     </item>
     
@@ -79,15 +88,6 @@
       <pubDate>Sun, 17 Feb 2019 00:00:00 -0600</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/11-infer-ma-sgd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weighted Message Passing and Minimum Energy Flow for Heterogeneous Stochastic Block Models with Side Information</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/13-wmp-sbm/</link>
-      <pubDate>Thu, 03 Jan 2019 00:00:00 -0600</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/13-wmp-sbm/</guid>
       <description></description>
     </item>
     
