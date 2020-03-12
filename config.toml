@@ -234,7 +234,7 @@ defaultContentLanguageInSubdir = false
   # [[params.social]]
   #   icon = "cv"
   #   icon_pack = "ai"
-  #   link = "https://www.dropbox.com/s/hkq1r3pol3g9hed/Liang-CV.pdf?dl=0"
+  #   link = ""
 
   # [[params.social]]
   #   icon = "github"
