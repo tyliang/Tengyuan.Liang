@@ -36,4 +36,4 @@ Dr. Liang is an assistant professor at [Chicago Booth](https://www.chicagobooth.
 
 His current research interests include computational and algorithmic aspects of statistical inference, machine learning and statistical learning theory, stochastic methods in non-convex optimization.
 
-His CV can be found [here](pdf/Liang-CV.pdf).
+<!-- His CV can be found [here](pdf/Liang-CV.pdf). -->
