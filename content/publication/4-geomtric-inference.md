@@ -18,8 +18,8 @@ authors = ["T. Tony Cai", "**Tengyuan Liang**", "Alexander Rakhlin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "The Annals of Statistics, vol.44 (4), 1536-1563"
-publication_short = "*The Annals of Statistics*"
+publication = "Annals of Statistics, vol.44 (4), 1536-1563"
+publication_short = "*Annals of Statistics*"
 
 # Abstract and optional shortened version.
 abstract = "This paper presents a unified geometric framework for the statistical analysis of a general ill-posed linear inverse model which includes as special cases noisy compressed sensing, sign vector recovery, trace regression, orthogonal matrix estimation and noisy matrix completion. We propose computationally feasible convex programs for statistical inference including estimation, confidence intervals and hypothesis testing. A theoretical framework is developed to characterize the local estimation rate of convergence and to provide statistical inference guarantees. Our results are built based on the local conic geometry and duality. The difficulty of statistical inference is captured by the geometric characterization of the local tangent cone through the Gaussian width and Sudakov estimate."
