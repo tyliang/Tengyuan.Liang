@@ -42,7 +42,7 @@ projects = ["stochastic-optimization", "stat-learning"]
 tags = ["Machine Learning (stat.ML)", "Statistics Theory (math.ST)", "Methodology (stat.ME)", "Optimization and Control (math.OC)"]
 
 # Links (optional).
-url_pdf = "pdf/arxiv_mas_grad.pdf"
+url_pdf = "https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12313"
 url_preprint = "https://arxiv.org/abs/1712.07519"
 url_code = ""
 url_dataset = ""

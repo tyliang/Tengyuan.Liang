@@ -42,7 +42,7 @@ projects = ["deep-learning", "stat-learning", "high-dim-statistics"]
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Optimization and Control (math.OC)"]
 
 # Links (optional).
-url_pdf = "pdf/Dou-Liang-19.pdf"
+url_pdf = "https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1745812"
 url_preprint = "https://arxiv.org/abs/1901.07114"
 url_code = ""
 url_dataset = ""
