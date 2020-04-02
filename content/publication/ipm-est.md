@@ -1,5 +1,5 @@
 +++
-title = "Estimating Certain Integral Probability Metric (IPM) Is as Hard as Estimating under the IPM"
+title = "Estimating Certain Integral Probability Metrics (IPMs) Is as Hard as Estimating under the IPMs"
 date = 2019-10-26
 draft = false
 
