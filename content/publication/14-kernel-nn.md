@@ -18,8 +18,8 @@ authors = ["Xialiang Dou", "**Tengyuan Liang**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of the American Statistical Association (Theory and Methods), to appear"
-publication_short = "*Journal of the American Statistical Association (Theory and Methods)*, to appear"
+publication = "Journal of the American Statistical Association (Theory and Methods)"
+publication_short = "*Journal of the American Statistical Association (Theory and Methods)*"
 
 # Abstract and optional shortened version.
 abstract = "Consider the problem: given data pair $(\\mathbf{x}, \\mathbf{y})$ drawn from a population with $f_\\star(x) = E[ \\mathbf{y} | \\mathbf{x} = x]$, specify a neural network and run gradient flow on the weights over time until any stationarity. How does *$f_t$*, the function computed by the neural network at time t, relate to *$f_\\star$*, in terms of approximation and representation? What are the provable benefits of the adaptive representation by neural networks compared to the pre-specified fixed basis representation in the classical nonparametric literature? We answer the above questions via a dynamic reproducing kernel Hilbert space (RKHS) view indexed by the training process of neural networks. We show that when reaching any local stationarity, gradient flow learns an adaptive RKHS representation, and performs the global least squares projection onto the adaptive RKHS, simultaneously. In addition, we prove that as the RKHS is data-adaptive and task-specific, the residual for *$f_\\star$* lies in a subspace that is smaller than the orthogonal complement of the RKHS, formalizing the representation and approximation benefits of neural networks."
