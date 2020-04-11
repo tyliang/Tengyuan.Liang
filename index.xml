@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tengyuan Liang on Tengyuan Liang</title>
+    <link>http://tyliang.github.io/Tengyuan.Liang/</link>
+    <description>Recent content in Tengyuan Liang on Tengyuan Liang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mehler’s Formula, Branching Process, and Compositional Kernels of Deep Neural Networks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/mehler-kernel/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/mehler-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Precise High-Dimensional Asymptotic Theory for Boosting and Min-L1-Norm Interpolated Classifiers</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/max-l1-margin/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/max-l1-margin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weighted Message Passing and Minimum Energy Flow for Heterogeneous Stochastic Block Models with Side Information</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/13-wmp-sbm/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/13-wmp-sbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Certain Integral Probability Metrics (IPMs) Is as Hard as Estimating under the IPMs</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/ipm-est/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/ipm-est/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Multiple Descent of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/multi-descent-kernel/</link>
+      <pubDate>Sun, 25 Aug 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/multi-descent-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On How Well Generative Adversarial Networks Learn Densities: Nonparametric and Parametric Results</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/nonparam-gan/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/nonparam-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Neural Networks for Estimation and Inference: Application to Causal Effects and Other Semiparametric Estimands</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/deep-ate/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/deep-ate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just Interpolate: Kernel &#39;&#39;Ridgeless&#39;&#39; Regression Can Generalize</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Inference for the Population Landscape via Moment Adjusted Stochastic Gradients</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/11-infer-ma-sgd/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/11-infer-ma-sgd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction Matters: A Note on Non-asymptotic Local Convergence of Generative Adversarial Networks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/10-opt-gan/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/10-opt-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fisher-Rao Metric, Geometry, and Complexity of Neural Networks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/9-fisher-rao/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/9-fisher-rao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tsinghua</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/talk/2018-12-21-tsinghua/</link>
+      <pubDate>Tue, 18 Dec 2018 07:06:39 +0800</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/talk/2018-12-21-tsinghua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CREST</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/talk/2019-03-25-ensae/</link>
+      <pubDate>Mon, 10 Dec 2018 14:23:43 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/talk/2019-03-25-ensae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duke</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/talk/2020-03-25-duke/</link>
+      <pubDate>Mon, 10 Dec 2018 14:23:43 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/talk/2020-03-25-duke/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
