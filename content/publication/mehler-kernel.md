@@ -18,7 +18,7 @@ authors = ["**Tengyuan Liang**", "Hai Tran-Bach"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:2004."
+publication = "arXiv:2004.04767"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (ma
 
 # Links (optional).
 url_pdf = "pdf/Liang-TranBach-20.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/2004.04767"
 url_code = ""
 url_dataset = ""
 url_project = ""
