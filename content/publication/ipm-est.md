@@ -42,7 +42,7 @@ projects = ["stat-learning", "high-dim-statistics"]
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)"]
 
 # Links (optional).
-url_pdf = "pdf/arxiv_ipm_est.pdf"
+url_pdf = "pdf/Liang-19.pdf"
 url_preprint = "https://arxiv.org/abs/1911.00730"
 url_code = ""
 url_dataset = ""
