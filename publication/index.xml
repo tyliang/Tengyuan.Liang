@@ -67,15 +67,6 @@
     </item>
     
     <item>
-      <title>Deep Neural Networks for Estimation and Inference: Application to Causal Effects and Other Semiparametric Estimands</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/deep-ate/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/deep-ate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Just Interpolate: Kernel &#39;&#39;Ridgeless&#39;&#39; Regression Can Generalize</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</link>
       <pubDate>Mon, 08 Apr 2019 00:00:00 -0500</pubDate>
@@ -117,6 +108,15 @@
       <pubDate>Thu, 01 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/nonparam-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Neural Networks for Estimation and Inference: Application to Causal Effects and Other Semiparametric Estimands</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/deep-ate/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/deep-ate/</guid>
       <description></description>
     </item>
     
