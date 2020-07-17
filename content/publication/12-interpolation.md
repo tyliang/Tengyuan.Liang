@@ -1,6 +1,6 @@
 +++
 title = "Just Interpolate: Kernel ''Ridgeless'' Regression Can Generalize"
-date = 2019-04-08
+date = 2020-02-08
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["**Tengyuan Liang**", "Alexander Rakhlin"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Annals of Statistics, to appear"
-publication_short = "*Annals of Statistics*, to appear"
+publication = "Annals of Statistics, vol.48 (3), 1329-1347"
+publication_short = "*Annals of Statistics*"
 
 # Abstract and optional shortened version.
 abstract = "In the absence of explicit regularization, Kernel ''Ridgeless'' Regression with nonlinear kernels has the potential to fit the training data perfectly. It has been observed empirically, however, that such interpolated solutions can still generalize well on test data. We isolate a phenomenon of implicit regularization for minimum-norm interpolated solutions which is due to a combination of high dimensionality of the input data, curvature of the kernel function, and favorable geometric properties of the data such as an eigenvalue decay of the empirical covariance and kernel matrices. In addition to deriving a data-dependent upper bound on the out-of-sample error, we present experimental evidence suggesting that the phenomenon occurs in the MNIST dataset."
@@ -42,7 +42,7 @@ projects = ["deep-learning", "stat-learning", "high-dim-statistics"]
 tags = ["Statistics Theory (math.ST)", "Learning (cs.LG)", "Machine Learning (stat.ML)"]
 
 # Links (optional).
-url_pdf = "pdf/arxiv_interpolation.pdf"
+url_pdf = "https://projecteuclid.org/euclid.aos/1594972820"
 url_preprint = "https://arxiv.org/abs/1808.00387"
 url_code = ""
 url_dataset = ""
