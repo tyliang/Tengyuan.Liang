@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "**Data Science**",
+    "**Mathematical Data Science**",
     "Statistical Inference",
     "Statistical Learning",
     "Stochastic Optimization",
