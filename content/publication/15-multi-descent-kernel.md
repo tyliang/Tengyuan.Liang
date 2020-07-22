@@ -42,7 +42,7 @@ projects = ["deep-learning","stat-learning", "high-dim-statistics"]
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)"]
 
 # Links (optional).
-url_pdf = "pdf/Liang-Rakhlin-Zhai-19.pdf"
+url_pdf = "pdf/20-Liang-Rakhlin-Zhai-COLT.pdf"
 url_preprint = "https://arxiv.org/abs/1908.10292"
 url_code = ""
 url_dataset = ""
