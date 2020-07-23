@@ -42,7 +42,7 @@ selected = false
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)"]
 
 # Links (optional).
-url_pdf = "pdf/20-Liang-Rakhlin-Zhai-COLT.pdf"
+url_pdf = "http://proceedings.mlr.press/v125/liang20a.html"
 url_preprint = "https://arxiv.org/abs/1908.10292"
 url_code = ""
 url_dataset = ""

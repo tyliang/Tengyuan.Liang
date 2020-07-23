@@ -1,12 +1,30 @@
 %% This BibTeX bibliography file was created using BibDesk.
-%% http://bibdesk.sourceforge.net/
+%% https://bibdesk.sourceforge.io/
 
-%% Created for tengyuan at 2020-07-22 21:00:36 -0500 
+%% Created for Tengyuan Liang at 2020-07-23 11:14:10 -0500 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@inproceedings{pmlr-v125-liang20a,
+	Abstract = { We study the risk of minimum-norm interpolants of data in Reproducing Kernel Hilbert Spaces. Our upper bounds on the risk are of a multiple-descent shape for the various scalings of $d = n^{\alpha}$, $\alpha\in(0,1)$, for the input dimension $d$ and sample size $n$. Empirical evidence supports our finding that minimum-norm interpolants in RKHS can exhibit this unusual non-monotonicity in sample size; furthermore,  locations of the peaks in our experiments match our theoretical predictions. Since gradient flow on appropriately initialized wide neural networks converges to a  minimum-norm interpolant with respect to a certain kernel, our analysis also yields novel estimation and generalization guarantees for these over-parametrized models. At the heart of our analysis is a study of spectral properties of the random kernel matrix restricted to a filtration of eigen-spaces of the population covariance operator, and may be of independent interest.  },
+	Author = {Liang, Tengyuan and Rakhlin, Alexander and Zhai, Xiyu},
+	Booktitle = {Proceedings of Thirty Third Conference on Learning Theory},
+	Date-Added = {2020-07-23 11:14:09 -0500},
+	Date-Modified = {2020-07-23 11:14:09 -0500},
+	Editor = {Abernethy, Jacob and Agarwal, Shivani},
+	Month = {09--12 Jul},
+	Pages = {2683--2711},
+	Pdf = {http://proceedings.mlr.press/v125/liang20a/liang20a.pdf},
+	Publisher = {PMLR},
+	Series = {Proceedings of Machine Learning Research},
+	Title = {On the Multiple Descent of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels},
+	Url = {http://proceedings.mlr.press/v125/liang20a.html},
+	Volume = {125},
+	Year = {2020},
+	Bdsk-Url-1 = {http://proceedings.mlr.press/v125/liang20a.html}}
 
 @inproceedings{pmlr-v40-Belloni15,
 	Abstract = {We consider the problem of optimizing an approximately convex function over a bounded convex set in \mathbbR^n  using only function evaluations. The problem is reduced to sampling from an \emphapproximately log-concave distribution using the Hit-and-Run method, which is shown to have the same \mathcalO^* complexity as sampling from log-concave distributions. In addition to extend the analysis for log-concave distributions to approximate log-concave distributions, the implementation of the 1-dimensional sampler of the Hit-and-Run walk requires new methods and analysis. The algorithm then is based on simulated annealing which does not relies on first order conditions which makes it essentially immune to local minima. We then apply the method to different motivating problems. In the context of zeroth order stochastic convex optimization, the proposed method produces an ε-minimizer after \mathcalO^*(n^7.5ε^-2) noisy function evaluations  by inducing a \mathcalO(ε/n)-approximately log concave distribution. We also consider in detail the case when the ``amount of non-convexity'' decays towards the optimum of the function. Other applications of the method discussed in this work include private computation of empirical risk minimizers, two-stage stochastic programming, and approximate dynamic programming for online learning.},
