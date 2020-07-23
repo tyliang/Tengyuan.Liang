@@ -61,7 +61,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile-booth.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "tengyuan.liang@chicagobooth.edu"
+  email = "Firstname.Lastname@chicagobooth.edu"
   address = "5807 S. Woodlawn Ave, Chicago, IL 60637, USA"
   office_hours = "email for appointment"
   # phone = "773 702 7935"
@@ -178,7 +178,7 @@ defaultContentLanguageInSubdir = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]

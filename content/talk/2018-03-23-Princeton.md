@@ -30,7 +30,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Information Sciences and Systems", "Statistical Learning"]
+tags = ["Information Systems", "Statistical Learning"]
 
 # Links (optional).
 url_pdf = ""

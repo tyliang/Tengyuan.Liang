@@ -35,11 +35,11 @@ selected = false
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["computation-statistics-boundaries"]
+#   projects = ["computation-statistics-boundaries"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Statistics Theory (math.ST)", "Machine Learning (stat.ML)"]
+tags = ["Statistics Theory (math.ST)", "Machine Learning (stat.ML)", "Information Theory (cs.IT)"]
 
 # Links (optional).
 url_pdf = "http://ieeexplore.ieee.org/document/7924316/"

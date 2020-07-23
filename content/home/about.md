@@ -34,6 +34,10 @@ weight = 5
 
 Dr. Liang is an assistant professor at [Chicago Booth](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang). He is also the George C. Tiao faculty fellow in **data science** research.  
 
-His current research interests include studying the computational and algorithmic aspects of statistical inference, reconciling the empirical and theoretical gap in modern machine learning and statistical learning, and exploiting stochastic methods in non-convex optimization.
+His current research topics include:
+
+1. To understand the computational and algorithmic aspects of statistical inference.
+2. To bridge the empirical and theoretical gap in modern statistical learning.
+3. To exploit the role of stochasticity in solving non-convex optimization.
 
 <!-- His CV can be found [here](pdf/Liang-CV.pdf). -->

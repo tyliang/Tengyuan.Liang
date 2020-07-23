@@ -35,11 +35,11 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["stat-learning", "high-dim-statistics", "deep-learning"]
+#   projects = ["stat-learning", "high-dim-statistics", "deep-learning"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)"]
+tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Numerical Analysis (cs.NA)"]
 
 # Links (optional).
 url_pdf = "pdf/Liang-TranBach-20.pdf"

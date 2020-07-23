@@ -35,11 +35,11 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = ["applications", "deep-learning", "stat-learning", "high-dim-statistics"]
+#   projects = ["applications", "deep-learning", "stat-learning", "high-dim-statistics"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Econometrics (econ.EM)", "Statistics Theory (math.ST)", "Learning (cs.LG)", "Machine Learning (stat.ML)",  "Economic and Business Applications", "Big Data"]
+tags = ["Econometrics (econ.EM)", "Statistics Theory (math.ST)", "Learning (cs.LG)", "Machine Learning (stat.ML)"]
 
 # Links (optional).
 url_pdf = "pdf/Farrell-Liang-Misra-18.pdf"
