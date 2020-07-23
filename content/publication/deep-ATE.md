@@ -42,7 +42,7 @@ projects = ["applications", "deep-learning", "stat-learning", "high-dim-statisti
 tags = ["Econometrics (econ.EM)", "Statistics Theory (math.ST)", "Learning (cs.LG)", "Machine Learning (stat.ML)",  "Economic and Business Applications", "Big Data"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "pdf/Farrell-Liang-Misra-18.pdf"
 url_preprint = "https://arxiv.org/abs/1809.09953"
 url_code = ""
 url_dataset = ""
