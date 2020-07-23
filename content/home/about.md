@@ -32,7 +32,7 @@ weight = 5
 
 # Biography
 
-Dr. Liang is an assistant professor at [Chicago Booth](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang). He is also the George C. Tiao faculty fellow in **data science** research.  
+Dr. Liang is an assistant professor at [The University of Chicago](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang). He is also the George C. Tiao faculty fellow in **data science** research.  
 
 His current research topics include:
 
