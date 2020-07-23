@@ -140,6 +140,15 @@
     
     <url>
     
+      <loc>http://tyliang.github.io/Tengyuan.Liang/talk/2020-08-05-jsm/</loc>
+      <lastmod>2018-12-10T14:23:43-06:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://tyliang.github.io/Tengyuan.Liang/talk/2019-09-06-mit/</loc>
       <lastmod>2018-12-10T14:23:43-06:00</lastmod>
     </url>
@@ -458,6 +467,16 @@
     
     <url>
     
+      <loc>http://tyliang.github.io/Tengyuan.Liang/tags/artificial-intelligence/</loc>
+      <lastmod>2018-12-10T14:23:43-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/artificial-intelligence-cs.ai/</loc>
       <lastmod>2019-01-01T00:00:00-06:00</lastmod>
       <priority>0</priority>
@@ -607,16 +626,6 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/tags/information-sciences-and-systems/</loc>
-      <lastmod>2018-02-19T22:05:11-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/information-systems/</loc>
       <lastmod>2018-06-21T23:11:12+08:00</lastmod>
       <priority>0</priority>
@@ -698,7 +707,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/numerical-analysis-cs.na/</loc>
-      <lastmod>2015-07-01T00:00:00-05:00</lastmod>
+      <lastmod>2020-04-08T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -708,7 +717,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/operations-research/</loc>
-      <lastmod>2018-06-21T23:11:12+08:00</lastmod>
+      <lastmod>2018-07-16T14:42:22-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -749,16 +758,6 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication_types/</loc>
       <lastmod>2020-05-25T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://tyliang.github.io/Tengyuan.Liang/tags/scalability/</loc>
-      <lastmod>2018-06-25T21:50:24-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -808,7 +807,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/</loc>
-      <lastmod>2019-01-01T00:00:00-06:00</lastmod>
+      <lastmod>2018-12-10T14:23:43-06:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -819,16 +818,6 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://tyliang.github.io/Tengyuan.Liang/tags/theory-and-modeling-of-deep-learning/</loc>
-      <lastmod>2018-12-10T14:23:43-06:00</lastmod>
       <priority>0</priority>
     </url>
     

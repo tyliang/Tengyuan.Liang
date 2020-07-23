@@ -18,8 +18,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/home/about/</guid>
-      <description>Biography Dr. Liang is an assistant professor at Chicago Booth. He is also the George C. Tiao faculty fellow in data science research.
-His current research interests include studying the computational and algorithmic aspects of statistical inference, reconciling the empirical and theoretical gap in modern machine learning and statistical learning, and exploiting stochastic methods in non-convex optimization.</description>
+      <description> Biography Dr. Liang is an assistant professor at Chicago Booth. He is also the George C. Tiao faculty fellow in data science research.
+His current research topics include:
+ To understand the computational and algorithmic aspects of statistical inference. To bridge the empirical and theoretical gap in modern statistical learning. To exploit the role of stochasticity in solving non-convex optimization.  </description>
     </item>
     
     <item>
@@ -57,7 +58,7 @@ His current research interests include studying the computational and algorithmi
       <guid>http://tyliang.github.io/Tengyuan.Liang/home/teaching/</guid>
       <description>Booth:
  41000 (MBA): Business Statistics: Fall 19, Fall 18, Spring 18
- Data Science Reading Group
+ Voluntary (PhD): Data Science Reading Group
   Wharton:
  622 (MBA): Advanced Quantitative Modeling: Spring 15, Spring 14  </description>
     </item>
