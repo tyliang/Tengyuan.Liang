@@ -36,8 +36,8 @@ Dr. Liang is an assistant professor at [The University of Chicago](https://www.c
 
 His current research topics include:
 
-1. To understand the computational and algorithmic aspects of statistical inference.
-2. To bridge the empirical and theoretical gap in modern statistical learning.
-3. To exploit the role of stochasticity in solving non-convex optimization.
+1. To bridge the empirical and theoretical gap in modern statistical learning;
+2. To understand the computational and algorithmic aspects of statistical inference;
+3. To explore the role of stochasticity in solving non-convex optimization.
 
 <!-- His CV can be found [here](pdf/Liang-CV.pdf). -->
