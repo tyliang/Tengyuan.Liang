@@ -19,7 +19,7 @@ weight = 35
 
 To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`. -->
 
-- George C. Tiao Faculty Fellowship, 2017-2018    
+- George C. Tiao Faculty Fellowship, 2017-now    
 *for research in computational and data science*
 
 - J. Parker Memorial Bursk Award, 2016    
