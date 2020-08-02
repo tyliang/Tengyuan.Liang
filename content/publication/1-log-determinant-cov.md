@@ -4,7 +4,7 @@ date = 2015-05-01
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["T. Tony Cai", "**Tengyuan Liang**", "Harrison H. Zhou"]
+authors = ["T. Tony Cai", "Tengyuan Liang", "Harrison H. Zhou"]
 
 # Publication type.
 # Legend:
