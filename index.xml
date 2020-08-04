@@ -11,15 +11,6 @@
     <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Precise High-Dimensional Asymptotic Theory for Boosting and Minimum-L1-Norm Interpolated Classifiers</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/max-l1-margin/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/max-l1-margin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>On the Multiple Descent of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/15-multi-descent-kernel/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 -0500</pubDate>
@@ -52,6 +43,15 @@
       <pubDate>Sat, 08 Feb 2020 00:00:00 -0600</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Precise High-Dimensional Asymptotic Theory for Boosting and Minimum-L1-Norm Interpolated Classifiers</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/max-l1-margin/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/max-l1-margin/</guid>
       <description></description>
     </item>
     
