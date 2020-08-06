@@ -1,6 +1,6 @@
 +++
-title = "Deep Neural Networks for Estimation and Inference: Application to Causal Effects and Other Semiparametric Estimands"
-date = 2018-09-01
+title = "Deep Neural Networks for Estimation and Inference"
+date = 2020-08-03
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Max Farrell","Tengyuan Liang","Sanjog Misra"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:1809.09953"
-publication_short = ""
+publication = "Econometrica, to appear"
+publication_short = "*Econometrica*"
 
 # Abstract and optional shortened version.
 abstract = "We study deep neural networks and their use in semiparametric inference. We provide new rates of convergence for deep feedforward neural nets and, because our rates are sufficiently fast (in some cases minimax optimal), prove that semiparametric inference is valid using deep nets for first-step estimation. Our estimation rates and semiparametric inference results are the first in the literature to handle the current standard architecture: fully connected feedforward neural networks (multi-layer perceptrons), with the now-default rectified linear unit (ReLU) activation function and a depth explicitly diverging with the sample size. We discuss other architectures as well, including fixed-width, very deep networks. We establish nonasymptotic bounds for these deep ReLU nets, for both least squares and logistic loses in nonparametric regression. We then apply our theory to develop semiparametric inference, focusing on treatment effects and expected profits for concreteness, and demonstrate their effectiveness with an empirical application to direct mail marketing. Inference in many other semiparametric contexts can be readily obtained."
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
