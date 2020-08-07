@@ -42,7 +42,7 @@ selected = true
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Information Theory (cs.IT)"]
 
 # Links (optional).
-url_pdf = "pdf/Liang-Sur-20.pdf"
+url_pdf = "pdf/preprint-Liang-Sur-20.pdf"
 url_preprint = "https://arxiv.org/abs/2002.01586"
 url_code = ""
 url_dataset = ""

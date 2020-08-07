@@ -42,7 +42,7 @@ selected = true
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Numerical Analysis (cs.NA)"]
 
 # Links (optional).
-url_pdf = "pdf/Liang-TranBach-20.pdf"
+url_pdf = "pdf/preprint-Liang-TranBach-20.pdf"
 url_preprint = "https://arxiv.org/abs/2004.04767"
 url_code = ""
 url_dataset = ""

@@ -42,7 +42,7 @@ selected = true
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)"]
 
 # Links (optional).
-url_pdf = "pdf/Liang-18.pdf"
+url_pdf = "pdf/preprint-Liang-18.pdf"
 url_preprint = "http://arxiv.org/abs/1811.03179"
 # url_preprint = "https://arxiv.org/abs/1712.08244" old arxiv version
 url_code = ""

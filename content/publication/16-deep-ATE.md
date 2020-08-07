@@ -42,7 +42,7 @@ selected = false
 tags = ["Econometrics (econ.EM)", "Statistics Theory (math.ST)", "Learning (cs.LG)", "Machine Learning (stat.ML)"]
 
 # Links (optional).
-url_pdf = "pdf/Farrell-Liang-Misra-18.pdf"
+url_pdf = "pdf/20-Farrell-Liang-Misra-ECMA.pdf"
 url_preprint = "https://arxiv.org/abs/1809.09953"
 url_code = ""
 url_dataset = ""
