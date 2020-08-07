@@ -20,7 +20,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Statistics"
-  institution = "Wharton School at University of Pennsylvania"
+  institution = "University of Pennsylvania, Wharton School"
   year = 2017
 
 [[education.courses]]
