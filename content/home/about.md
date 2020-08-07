@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "**Mathematical Data Science**",
+    "Mathematical Data Science",
     "Statistical Inference",
     "Statistical Learning",
     "Stochastic Optimization",
@@ -32,7 +32,7 @@ weight = 5
 
 # Biography
 
-Dr. Liang is an [assistant professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) at [The University of Chicago](https://www.uchicago.edu), and the George C. Tiao faculty fellow in data science research.  
+Dr. Liang is an [assistant professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) at [University of Chicago](https://www.uchicago.edu), and the George C. Tiao faculty fellow in data science research.  
 
 His current research topics include:
 

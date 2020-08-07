@@ -56,8 +56,10 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Chicago", url = "https://www.uchicago.edu" },
-                    { name = "Booth School of Business", url = "https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang" } ]
+  organizations = [
+                    { name = "University of Chicago, Booth School of Business", url = "https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang" }, 
+                    # { name = "University of Chicago", url = "https://www.uchicago.edu" }
+                  ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile-booth.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
