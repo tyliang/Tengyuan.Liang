@@ -34,7 +34,7 @@ weight = 5
 
 I am an [assistant professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) at [University of Chicago](https://www.uchicago.edu), and the George C. Tiao faculty fellow in data science research.  
 
-I use [learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory) and [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) to understand models and data.
+I use principles from [learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory) and [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) to understand models and data.
 
 My current research goals include:
 
