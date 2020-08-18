@@ -51,7 +51,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-#   url_custom = [{name = "Blog", url = "http://www.inference.vc/generalization-and-the-fisher-rao-norm-2/"}]
+url_custom = [{name = "Media", url = "http://www.inference.vc/generalization-and-the-fisher-rao-norm-2/"}]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
