@@ -1,5 +1,5 @@
 +++
-title = "On How Well Generative Adversarial Networks Learn Densities: Nonparametric and Parametric Results"
+title = "How Well Generative Adversarial Networks Learn Distributions"
 date = 2018-11-01
 draft = false
 
@@ -22,7 +22,7 @@ publication = "arXiv:1811.03179"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "We study in this paper the rate of convergence for learning distributions with the Generative Adversarial Networks (GAN) framework, which subsumes Wasserstein, Sobolev and MMD GANs as special cases. We study a wide range of parametric and nonparametric target distributions, under a collection of objective evaluation metrics. On the nonparametric end, we investigate the minimax optimal rates and fundamental difficulty of the density estimation under the adversarial framework. On the parametric end, we establish theory for neural network classes, that characterizes the interplay between the choice of generator and discriminator. We investigate how to improve the GAN framework with better theoretical guarantee through the lens of regularization. We discover and isolate a new notion of regularization, called the _generator/discriminator pair regularization_, that sheds light on the advantage of GAN compared to classic parametric and nonparametric approaches for density estimation."
+abstract = "This paper studies the rates of convergence for learning distributions implicitly with the adversarial framework and Generative Adversarial Networks (GAN), which subsume Wasserstein, Sobolev, MMD GAN, and Generalized/Simulated Method of Moments (GMM/SMM) as special cases. We study a wide range of parametric and nonparametric target distributions, under a host of objective evaluation metrics. We investigate how to obtain a good statistical guarantee for GANs through the lens of regularization. On the nonparametric end, we derive the optimal minimax rates for distribution estimation under the adversarial framework. On the parametric end, we establish a theory for general neural network classes (including deep leaky ReLU networks), that characterizes the interplay on the choice of generator and discriminator pair. We discover and isolate a new notion of regularization, called the generator-discriminator-pair regularization, that sheds light on the advantage of GANs compared to classical parametric and nonparametric approaches for explicit distribution estimation. We develop novel oracle inequalities as the main technical tools for analyzing GANs, which is of independent interest."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
