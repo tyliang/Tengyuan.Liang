@@ -277,11 +277,6 @@ defaultContentLanguageInSubdir = false
 #   url = "#posts"
 #   weight = 3
 
-# [[menu.main]]
-#   name = "CV"
-#   url = "pdf/Liang-CV-Booth.pdf"
-#   weight = 0
-
 [[menu.main]]
   name = "Talks"
   url = "#talks"
@@ -296,6 +291,11 @@ defaultContentLanguageInSubdir = false
   name = "Contact"
   url = "#contact"
   weight = 5
+
+[[menu.main]]
+  name = "CV"
+  url = "pdf/Liang-CV-Booth.pdf"
+  weight = 0
 
 # Taxonomies.
 [taxonomies]
