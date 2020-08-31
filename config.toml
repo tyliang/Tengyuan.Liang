@@ -57,7 +57,7 @@ defaultContentLanguageInSubdir = false
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [
-                    { name = "University of Chicago, Booth School of Business", url = "https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang" }, 
+                    { name = "University of Chicago, Booth School of Business", url = "https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang" },
                     # { name = "University of Chicago", url = "https://www.uchicago.edu" }
                   ]
 
@@ -242,7 +242,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "pdf/Liang-CV.pdf"
+    link = "pdf/Liang-CV-Booth.pdf"
 
   # [[params.social]]
   #   icon = "github"
@@ -277,10 +277,10 @@ defaultContentLanguageInSubdir = false
 #   url = "#posts"
 #   weight = 3
 
-[[menu.main]]
-  name = "CV"
-  url = "pdf/Liang-CV.pdf"
-  weight = 0
+# [[menu.main]]
+#   name = "CV"
+#   url = "pdf/Liang-CV-Booth.pdf"
+#   weight = 0
 
 [[menu.main]]
   name = "Talks"
