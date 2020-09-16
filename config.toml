@@ -227,10 +227,10 @@ defaultContentLanguageInSubdir = false
   #   icon = "twitter"
   #   icon_pack = "fa"
   #   link = "//twitter.com/GeorgeCushen"
-  [[params.social]]
-    icon = "semantic-scholar"
-    icon_pack = "ai"
-    link = "https://www.semanticscholar.org/author/Tengyuan-Liang/9448283?sort=velocity"
+  # [[params.social]]
+  #   icon = "semantic-scholar"
+  #   icon_pack = "ai"
+  #   link = "https://www.semanticscholar.org/author/Tengyuan-Liang/9448283?sort=velocity"
 
 
 
