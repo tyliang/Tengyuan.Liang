@@ -227,7 +227,7 @@ defaultContentLanguageInSubdir = false
   #   icon = "twitter"
   #   icon_pack = "fa"
   #   link = "//twitter.com/GeorgeCushen"
-  
+
   [[params.social]]
     icon = "semantic-scholar"
     icon_pack = "ai"
@@ -243,7 +243,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "cv"
     icon_pack = "ai"
-    link = "pdf/Liang-CV-Booth.pdf"
+    link = "pdf/Liang-CV.pdf"
 
   # [[params.social]]
   #   icon = "github"
@@ -295,7 +295,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "pdf/Liang-CV-Booth.pdf"
+  url = "pdf/Liang-CV.pdf"
   weight = 0
 
 # Taxonomies.
