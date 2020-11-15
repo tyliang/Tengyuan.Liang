@@ -11,6 +11,15 @@
     <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Mehler’s Formula, Branching Process, and Compositional Kernels of Deep Neural Networks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Neural Networks for Estimation and Inference</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/16-deep-ate/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 -0500</pubDate>
@@ -25,15 +34,6 @@
       <pubDate>Mon, 25 May 2020 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/15-multi-descent-kernel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mehler’s Formula, Branching Process, and Compositional Kernels of Deep Neural Networks</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/mehler-kernel/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/mehler-kernel/</guid>
       <description></description>
     </item>
     
@@ -70,6 +70,15 @@
       <pubDate>Fri, 03 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/13-wmp-sbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Individual Heterogeneity</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/heterogeneity/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/heterogeneity/</guid>
       <description></description>
     </item>
     
@@ -133,15 +142,6 @@
       <pubDate>Mon, 10 Dec 2018 14:23:43 -0600</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/talk/2020-03-25-duke/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google Research NYC</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/talk/2020-06-05-google/</link>
-      <pubDate>Mon, 10 Dec 2018 14:23:43 -0600</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/talk/2020-06-05-google/</guid>
       <description></description>
     </item>
     
