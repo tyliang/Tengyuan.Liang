@@ -42,7 +42,7 @@ selected = false
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Numerical Analysis (cs.NA)"]
 
 # Links (optional).
-url_pdf = "pdf/20-Liang-TranBach-JASA.pdf"
+url_pdf = "https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1853547"
 url_preprint = "https://arxiv.org/abs/2004.04767"
 url_code = ""
 url_dataset = ""
