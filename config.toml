@@ -263,13 +263,13 @@ defaultContentLanguageInSubdir = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "Bio"
   url = "#about"
   weight = 1
 
 
 [[menu.main]]
-  name = "Publications"
+  name = "Research"
   url = "#publications_selected"
   weight = 2
 
