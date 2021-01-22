@@ -11,7 +11,7 @@ title = "Awards"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 25
 
 +++
 
@@ -19,13 +19,15 @@ weight = 40
 
 To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`. -->
 
+- NSF CAREER Award, 2021-2026    
+
 - George C. Tiao Faculty Fellowship, 2017-now    
-*for research in computational and data science*
+    *for research in computational and data science*
 
 - J. Parker Memorial Bursk Award, 2016    
-*for excellence in research*
+    *for excellence in research*
 
 - US Junior Oberwolfach Fellow, 2015
 
 - Winkelman Fellowship, 2014-2017    
-*the highest honorific fellowship awarded by the Wharton School*
+    *the highest honorific fellowship awarded by the Wharton School*

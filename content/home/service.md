@@ -11,7 +11,7 @@ title = "Professional Service"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 35
+weight = 30
 
 +++
 

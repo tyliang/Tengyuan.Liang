@@ -32,14 +32,12 @@ weight = 5
 
 # Biography
 
-I am an [assistant professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) at [University of Chicago](https://www.uchicago.edu), and the George C. Tiao faculty fellow in data science research.  
+I am an [assistant professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) at the [University of Chicago](https://www.uchicago.edu). I use principles from [learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory) and [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) to understand models and data.
 
-I use principles from [learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory) and [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) to understand models and data.
+My research is supported by the NSF CAREER Award and the George C. Tiao Faculty Fellowship.  My current research aims to:
 
-My current research goals include:
-
-- To bridge the empirical and theoretical gap in modern statistical learning;
-- To understand the computational and algorithmic aspects of statistical inference;
-- To explore the role of stochasticity in solving non-convex optimization.
+- bridge the empirical and theoretical gap in modern statistical learning;
+- understand the computational and algorithmic aspects of statistical inference;
+- explore the role of stochasticity in solving non-convex optimization.
 
 <!-- His CV can be found [here](pdf/Liang-CV.pdf). -->
