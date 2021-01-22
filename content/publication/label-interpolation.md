@@ -18,7 +18,7 @@ authors = ["Tengyuan Liang", "Benjamin Recht"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "arXiv:"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (ma
 
 # Links (optional).
 url_pdf = "pdf/preprint-Liang-Recht-21.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/"
 url_code = ""
 url_dataset = ""
 url_project = ""
