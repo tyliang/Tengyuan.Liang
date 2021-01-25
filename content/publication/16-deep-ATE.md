@@ -42,7 +42,7 @@ selected = false
 tags = ["Econometrics (econ.EM)", "Statistics Theory (math.ST)", "Learning (cs.LG)", "Machine Learning (stat.ML)"]
 
 # Links (optional).
-url_pdf = "https://www.econometricsociety.org/publications/econometrica/2021/01/01/deep-neural-networks-estimation-and-inference"
+url_pdf = "https://onlinelibrary.wiley.com/doi/full/10.3982/ECTA16901"
 url_preprint = "https://arxiv.org/abs/1809.09953"
 url_code = ""
 url_dataset = ""
