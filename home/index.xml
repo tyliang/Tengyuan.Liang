@@ -18,10 +18,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/home/about/</guid>
-      <description>Biography I am an assistant professor at University of Chicago, and the George C. Tiao faculty fellow in data science research.
-I use principles from learning theory and mathematical statistics to understand models and data.
-My current research goals include:
- To bridge the empirical and theoretical gap in modern statistical learning; To understand the computational and algorithmic aspects of statistical inference; To explore the role of stochasticity in solving non-convex optimization.</description>
+      <description>Biography I am an assistant professor at the University of Chicago. I use principles from learning theory and mathematical statistics to understand models and data.
+My research is supported by the NSF CAREER Award and the George C. Tiao Faculty Fellowship. My current research aims to:
+ bridge the empirical and theoretical gap in modern statistical learning; understand the computational and algorithmic aspects of statistical inference; explore the role of stochasticity in solving non-convex optimization.</description>
     </item>
     
     <item>
@@ -43,25 +42,20 @@ My current research goals include:
     </item>
     
     <item>
-      <title>Workshops &amp; Talks</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/home/talks/</link>
+      <title>Awards</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/awards/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/home/teaching/</guid>
-      <description>Booth:
- 41000 (MBA): Business Statistics: Fall 20, Fall 19, Fall 18, Spring 18
- Voluntary (PhD): Data Science Reading Group
-  Wharton:
- 622 (MBA): Advanced Quantitative Modeling: Spring 15, Spring 14  </description>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/awards/</guid>
+      <description> NSF CAREER Award, 2021-2026
+ George C. Tiao Faculty Fellowship, 2017-now
+for research in computational and data science
+ J. Parker Memorial Bursk Award, 2016
+for excellence in research
+ US Junior Oberwolfach Fellow, 2015
+ Winkelman Fellowship, 2014-2017
+the highest honorific fellowship awarded by the Wharton School
+  </description>
     </item>
     
     <item>
@@ -76,19 +70,16 @@ My current research goals include:
     </item>
     
     <item>
-      <title>Awards</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/home/awards/</link>
+      <title>Teaching</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/home/awards/</guid>
-      <description> George C. Tiao Faculty Fellowship, 2017-now
-for research in computational and data science
- J. Parker Memorial Bursk Award, 2016
-for excellence in research
- US Junior Oberwolfach Fellow, 2015
- Winkelman Fellowship, 2014-2017
-the highest honorific fellowship awarded by the Wharton School
-  </description>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/teaching/</guid>
+      <description>Booth:
+ 41000 (MBA): Business Statistics: Fall 20, Fall 19, Fall 18, Spring 18
+ Voluntary (PhD): Data Science Reading Group
+  Wharton:
+ 622 (MBA): Advanced Quantitative Modeling: Spring 15, Spring 14  </description>
     </item>
     
     <item>
@@ -106,6 +97,15 @@ the highest honorific fellowship awarded by the Wharton School
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops &amp; Talks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/talks/</guid>
       <description></description>
     </item>
     
