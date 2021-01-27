@@ -1,6 +1,6 @@
 +++
 title = "Deep Neural Networks for Estimation and Inference"
-date = 2020-08-03
+date = 2021-01-13
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

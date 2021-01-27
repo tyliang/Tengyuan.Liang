@@ -1,6 +1,6 @@
 +++
 title = "Mehler’s Formula, Branching Process, and Compositional Kernels of Deep Neural Networks"
-date = 2020-11-15
+date = 2021-01-27
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["Tengyuan Liang", "Hai Tran-Bach"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of the American Statistical Association (Theory and Methods), forthcoming"
-publication_short = "*Journal of the American Statistical Association (Theory and Methods)*, forthcoming"
+publication = "Journal of the American Statistical Association (Theory and Methods)"
+publication_short = "*Journal of the American Statistical Association (Theory and Methods)*"
 
 # Abstract and optional shortened version.
 abstract = "In this paper, we utilize a connection between compositional kernels and branching processes via Mehler's formula to study deep neural networks. This new probabilistic insight provides us a novel perspective on the mathematical role of activation functions in compositional neural networks. We study the unscaled and rescaled limits of compositional kernels and explore the different phases of the limiting behavior, as the compositional depth increases. We investigate the memorization capacity of the compositional kernels and neural networks by characterizing the interplay among compositional depth, sample size, dimensionality, and non-linearity of the activation. Explicit formulas on the eigenvalues of the compositional kernel are provided, which quantify the complexity of the corresponding reproducing kernel Hilbert space. On the algorithmic front, we propose a new random features algorithm, which compresses the compositional layers by devising a new activation function."
