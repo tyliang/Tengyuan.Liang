@@ -294,7 +294,7 @@ defaultContentLanguageInSubdir = false
 #   weight = 5
 
 [[menu.main]]
-  name = "CV"
+  name = "Vitae"
   url = "pdf/Liang-CV.pdf"
   weight = 0
 
