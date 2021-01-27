@@ -11,6 +11,15 @@
     <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Mehler’s Formula, Branching Process, and Compositional Kernels of Deep Neural Networks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Interpolating Classifiers Make Few Mistake</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/label-interpolation/</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 -0600</pubDate>
@@ -20,18 +29,9 @@
     </item>
     
     <item>
-      <title>Mehler’s Formula, Branching Process, and Compositional Kernels of Deep Neural Networks</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</link>
-      <pubDate>Sun, 15 Nov 2020 00:00:00 -0600</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Neural Networks for Estimation and Inference</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/16-deep-ate/</link>
-      <pubDate>Mon, 03 Aug 2020 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 -0600</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/16-deep-ate/</guid>
       <description></description>
