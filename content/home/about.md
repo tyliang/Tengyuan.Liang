@@ -10,7 +10,6 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Mathematical Data Science",
     "Statistical Inference",
     "Statistical Learning",
     "Stochastic Optimization",
@@ -34,7 +33,7 @@ weight = 5
 
 I am an [assistant professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) at the [University of Chicago](https://www.uchicago.edu). I use principles from [learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory) and [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) to understand models and data.
 
-My research is supported by the [NSF CAREER Award](https://en.wikipedia.org/wiki/National_Science_Foundation_CAREER_Awards) and the [George C. Tiao Faculty Fellowship](https://www.chicagobooth.edu/faculty/emeriti/george-tiao). My current research aims to:
+My research is supported by the [NSF CAREER award](https://en.wikipedia.org/wiki/National_Science_Foundation_CAREER_Awards) and the [George C. Tiao faculty fellowship](https://www.chicagobooth.edu/faculty/emeriti/george-tiao). My current research aims to:
 
 - bridge the empirical and theoretical gap in modern statistical learning;
 - understand the computational and algorithmic aspects of statistical inference;
