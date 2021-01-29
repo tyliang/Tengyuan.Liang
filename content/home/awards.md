@@ -22,12 +22,12 @@ To remove this section, either delete `content/home/teaching.md` or edit the fro
 - NSF CAREER Award, 2021-2026    
 
 - George C. Tiao Faculty Fellowship, 2017-now    
-    *for research in computational and data science*
+    <sub>*for research in computational and data science*</sub>
 
 - J. Parker Memorial Bursk Award, 2016    
-    *for excellence in research*
+    <sub>*for excellence in research*</sub>
 
 - US Junior Oberwolfach Fellow, 2015
 
 - Winkelman Fellowship, 2014-2017    
-    *the highest honorific fellowship awarded by the Wharton School*
+    <sub>*the highest honorific fellowship awarded by the Wharton School*</sub>
