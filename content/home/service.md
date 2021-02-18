@@ -21,4 +21,4 @@ To remove this section, either delete `content/home/teaching.md` or edit the fro
 
 - Editorial Board, *[Journal of Machine Learning Research](https://www.jmlr.org)*
 
-- Senior Program Committee, *[COLT](https://www.learningtheory.org)*
+- Senior Program Committee, *[Conference on Learning Theory (COLT)](https://www.learningtheory.org)*
