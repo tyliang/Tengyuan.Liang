@@ -31,7 +31,7 @@ weight = 5
 
 # Biography
 
-I am an [assistant professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) at the [University of Chicago](https://www.uchicago.edu). I use principles from [learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory) and [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) to understand models and data.
+I am an [Assistant Professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) (Associate Professor, effective July 1, 2021) at the [University of Chicago](https://www.uchicago.edu). I use principles from [learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory) and [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) to understand models and data.
 
 My research is supported by the [NSF CAREER award](https://en.wikipedia.org/wiki/National_Science_Foundation_CAREER_Awards) and the [George C. Tiao faculty fellowship](https://www.chicagobooth.edu/faculty/emeriti/george-tiao). My current research aims to:
 
