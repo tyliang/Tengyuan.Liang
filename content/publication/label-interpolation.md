@@ -1,5 +1,5 @@
 +++
-title = "Interpolating Classifiers Make Few Mistake"
+title = "Interpolating Classifiers Make Few Mistakes"
 date = 2021-01-19
 draft = false
 
