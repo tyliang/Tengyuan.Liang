@@ -18,7 +18,7 @@ authors = ["Tengyuan Liang"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:2103.xxxxx"
+publication = "arXiv:2103.17203"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (ma
 
 # Links (optional).
 url_pdf = "pdf/preprint-Liang-21.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/2103.17203"
 url_code = ""
 url_dataset = ""
 url_project = ""
