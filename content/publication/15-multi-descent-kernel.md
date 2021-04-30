@@ -54,7 +54,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Corrigendum", url = "pdf/20-Liang-Rakhlin-Zhai-COLT-S1.pdf"}]
+url_custom = [{name = "Corrigendum", url = "pdf/20-Liang-Rakhlin-Zhai-COLT-C1.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = true
