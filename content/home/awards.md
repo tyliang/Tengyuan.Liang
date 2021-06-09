@@ -19,9 +19,11 @@ weight = 30
 
 To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`. -->
 
-- NSF CAREER Award, 2021-2026    
+- NSF CAREER Award, 2021-2026
 
-- George C. Tiao Faculty Fellowship, 2017-now    
+- David G. Booth Faculty Fellow, William S. Fishman Faculty Scholar, 2021-2022     
+
+- George C. Tiao Faculty Fellowship, 2017-2021    
     <sub>*for research in computational and data science*</sub>
 
 - J. Parker Memorial Bursk Award, 2016    
