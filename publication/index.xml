@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>How Well Generative Adversarial Networks Learn Distributions</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Universal Prediction Band via Semi-Definite Programming</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/prediction-band/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 -0500</pubDate>
@@ -135,15 +144,6 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/9-fisher-rao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Well Generative Adversarial Networks Learn Distributions</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/nonparam-gan/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/nonparam-gan/</guid>
       <description></description>
     </item>
     
