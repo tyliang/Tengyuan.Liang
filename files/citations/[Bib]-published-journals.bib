@@ -1,12 +1,36 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% https://bibdesk.sourceforge.io/
 
-%% Created for Tengyuan Liang at 2021-01-27 13:27:57 -0600 
+%% Created for Tengyuan Liang at 2021-09-07 11:08:32 -0500 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@article{L2021JMLR,
+	author = {Liang, Tengyuan},
+	date-added = {2021-09-07 11:08:06 -0500},
+	date-modified = {2021-09-07 11:08:18 -0500},
+	journal = {Journal of Machine Learning Research, to appear},
+	title = {How well generative adversarial networks learn distributions},
+	year = {2021}}
+
+@article{DL2021JASA,
+	author = {Xialiang Dou and Tengyuan Liang},
+	date-added = {2021-09-07 11:05:55 -0500},
+	date-modified = {2021-09-07 11:06:36 -0500},
+	doi = {10.1080/01621459.2020.1745812},
+	eprint = {https://doi.org/10.1080/01621459.2020.1745812},
+	journal = {Journal of the American Statistical Association},
+	number = {535},
+	pages = {1507-1520},
+	publisher = {Taylor & Francis},
+	title = {Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits},
+	url = {https://doi.org/10.1080/01621459.2020.1745812},
+	volume = {116},
+	year = {2021},
+	Bdsk-Url-1 = {https://doi.org/10.1080/01621459.2020.1745812}}
 
 @article{LT2020JASA,
 	abstract = { Abstract--We use a connection between compositional kernels and branching processes via Mehler's formula to study deep neural networks. This new probabilistic insight provides us a novel perspective on the mathematical role of activation functions in compositional neural networks. We study the unscaled and rescaled limits of the compositional kernels and explore the different phases of the limiting behavior, as the compositional depth increases. We investigate the memorization capacity of the compositional kernels and neural networks by characterizing the interplay among compositional depth, sample size, dimensionality, and nonlinearity of the activation. Explicit formulas on the eigenvalues of the compositional kernel are provided, which quantify the complexity of the corresponding reproducing kernel Hilbert space. On the methodological front, we propose a new random features algorithm, which compresses the compositional layers by devising a new activation function. Supplementary materials for this article are available online. },
@@ -110,23 +134,6 @@
 	volume = {45},
 	year = {2017},
 	Bdsk-Url-1 = {https://doi.org/10.1214/16-AOS1488}}
-
-@article{DL2020JASA,
-	abstract = { AbstractConsider the problem: given the data pair (x,y) drawn from a population with f*(x)=E[y|x=x], specify a neural network model and run gradient flow on the weights over time until reaching any stationarity. How does ft, the function computed by the neural network at time t, relate to f*, in terms of approximation and representation? What are the provable benefits of the adaptive representation by neural networks compared to the prespecified fixed basis representation in the classical nonparametric literature? We answer the above questions via a dynamic reproducing kernel Hilbert space (RKHS) approach indexed by the training process of neural networks. First, we show that when reaching any local stationarity, gradient flow learns an adaptive RKHS representation and performs the global least-squares projection onto the adaptive RKHS, simultaneously. Second, we prove that as the RKHS is data-adaptive and task-specific, the residual for f* lies in a subspace that is potentially much smaller than the orthogonal complement of the RKHS. The result formalizes the representation and approximation benefits of neural networks. Finally, we show that the neural network function computed by gradient flow converges to the kernel ridgeless regression with an adaptive kernel, in the limit of vanishing regularization. The adaptive kernel viewpoint provides new angles of studying the approximation, representation, generalization, and optimization advantages of neural networks. Supplementary materials for this article are available online. },
-	author = {Xialiang Dou and Tengyuan Liang},
-	date-added = {2020-07-22 21:18:24 -0500},
-	date-modified = {2020-07-22 21:18:24 -0500},
-	doi = {10.1080/01621459.2020.1745812},
-	eprint = {https://doi.org/10.1080/01621459.2020.1745812},
-	journal = {Journal of the American Statistical Association},
-	number = {0},
-	pages = {1-14},
-	publisher = {Taylor & Francis},
-	title = {Training Neural Networks as Learning Data-Adaptive Kernels: Provable Representation and Approximation Benefits},
-	url = {https://doi.org/10.1080/01621459.2020.1745812},
-	volume = {0},
-	year = {2020},
-	Bdsk-Url-1 = {https://doi.org/10.1080/01621459.2020.1745812}}
 
 @article{LS2019JRSSB,
 	abstract = {Summary Modern statistical inference tasks often require iterative optimization methods to compute the solution. Convergence analysis from an optimization viewpoint informs us only how well the solution is approximated numerically but overlooks the sampling nature of the data. In contrast, recognizing the randomness in the data, statisticians are keen to provide uncertainty quantification, or confidence, for the solution obtained by using iterative optimization methods. The paper makes progress along this direction by introducing moment-adjusted stochastic gradient descent: a new stochastic optimization method for statistical inference. We establish non-asymptotic theory that characterizes the statistical distribution for certain iterative methods with optimization guarantees. On the statistical front, the theory allows for model misspecification, with very mild conditions on the data. For optimization, the theory is flexible for both convex and non-convex cases. Remarkably, the moment adjusting idea motivated from `error standardization' in statistics achieves a similar effect to acceleration in first-order optimization methods that are used to fit generalized linear models. We also demonstrate this acceleration effect in the non-convex setting through numerical experiments.},
