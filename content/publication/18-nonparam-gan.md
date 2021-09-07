@@ -1,6 +1,6 @@
 +++
 title = "How Well Generative Adversarial Networks Learn Distributions"
-date = 2018-11-01
+date = 2021-09-07
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Tengyuan Liang"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:1811.03179"
-publication_short = ""
+publication = "Journal of Machine Learning Research, to appear"
+publication_short = "*Journal of Machine Learning Research*"
 
 # Abstract and optional shortened version.
 abstract = "This paper studies the rates of convergence for learning distributions implicitly with the adversarial framework and Generative Adversarial Networks (GAN), which subsume Wasserstein, Sobolev, MMD GAN, and Generalized/Simulated Method of Moments (GMM/SMM) as special cases. We study a wide range of parametric and nonparametric target distributions, under a host of objective evaluation metrics. We investigate how to obtain a good statistical guarantee for GANs through the lens of regularization. On the nonparametric end, we derive the optimal minimax rates for distribution estimation under the adversarial framework. On the parametric end, we establish a theory for general neural network classes (including deep leaky ReLU networks), that characterizes the interplay on the choice of generator and discriminator pair. We discover and isolate a new notion of regularization, called the generator-discriminator-pair regularization, that sheds light on the advantage of GANs compared to classical parametric and nonparametric approaches for explicit distribution estimation. We develop novel oracle inequalities as the main technical tools for analyzing GANs, which is of independent interest."
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
