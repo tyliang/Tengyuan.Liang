@@ -17,10 +17,10 @@
       
     
   
-  <meta name="description" content="We study the detailed path-wise behavior of the discrete-time Langevin algorithm for non-convex Empirical Risk Minimization (ERM) through the lens of metastability, adopting some techniques from \cite{berglund_gentz_pathwise}. For a particular local optimum of the empirical risk, with an \textit{arbitrary initialization}, we show that, with high probability, one of the two mutually exclusive events will occur: either the Langevin trajectory ends up somewhere outside the $\epsilon$-neighborhood of this particular optimum within a short \textit{recurrence time}; or it enters this $\epsilon$-neighborhood by the recurrence time and stays there until an exponentially long \textit{escape time}. We call this phenomenon \textit{empirical metastability}. This two-timescale characterization aligns nicely with the existing literature in the following two senses. First, the recurrence time is dimension-independent, and resembles the convergence time of deterministic Gradient Descent (GD). However unlike GD, the Langevin algorithm does not require strong conditions on local initialization, and has the possibility of eventually visiting all optima. Second, the scaling of the escape time is consistent with the Eyring-Kramers law, which states that the Langevin scheme will eventually visit all local minima, but it will take an exponentially long time to transit among them. We apply this path-wise concentration result in the context of statistical learning to examine local notions of generalization and optimality.">
+  <meta name="description" content="We consider the problem of optimizing an approximately convex function over a bounded convex set in $\mathbb{R}^n$  using only function evaluations. The problem is reduced to sampling from an *approximately* log-concave distribution using the Hit-and-Run method, which is shown to have the same $\mathcal{O}$ complexity as sampling from log-concave distributions. In addition to extend the analysis for log-concave distributions to approximate log-concave distributions, the implementation of the 1-dimensional sampler of the Hit-and-Run walk requires new methods and analysis. The algorithm then is based on simulated annealing which does not relies on first order conditions which makes it essentially immune to local minima. We then apply the method to different motivating problems. In the context of zeroth order stochastic convex optimization, the proposed method produces an $\epsilon$-minimizer after $\mathcal{O}(n^{7.5}\epsilon^{-2})$ noisy function evaluations  by inducing a $\mathcal{O}(\epsilon/n)$-approximately log concave distribution. We also consider in detail the case when the &#39;&#39;amount of non-convexity&#39;&#39; decays towards the optimum of the function. Other applications of the method discussed in this work include private computation of empirical risk minimizers, two-stage stochastic programming, and approximate dynamic programming for online learning.">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://tyliang.github.io/Tengyuan.Liang/publication/8-metastability/">
+  <link rel="alternate" hreflang="en-us" href="http://tyliang.github.io/Tengyuan.Liang/publication/02-approx-log-concave/">
 
   
 
@@ -82,24 +82,24 @@
   <link rel="icon" type="image/png" href="/Tengyuan.Liang/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/Tengyuan.Liang/img/icon-192.png">
 
-  <link rel="canonical" href="http://tyliang.github.io/Tengyuan.Liang/publication/8-metastability/">
+  <link rel="canonical" href="http://tyliang.github.io/Tengyuan.Liang/publication/02-approx-log-concave/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Tengyuan Liang">
-  <meta property="og:url" content="http://tyliang.github.io/Tengyuan.Liang/publication/8-metastability/">
-  <meta property="og:title" content="Local Optimality and Generalization Guarantees for the Langevin Algorithm via Empirical Metastability | Tengyuan Liang">
-  <meta property="og:description" content="We study the detailed path-wise behavior of the discrete-time Langevin algorithm for non-convex Empirical Risk Minimization (ERM) through the lens of metastability, adopting some techniques from \cite{berglund_gentz_pathwise}. For a particular local optimum of the empirical risk, with an \textit{arbitrary initialization}, we show that, with high probability, one of the two mutually exclusive events will occur: either the Langevin trajectory ends up somewhere outside the $\epsilon$-neighborhood of this particular optimum within a short \textit{recurrence time}; or it enters this $\epsilon$-neighborhood by the recurrence time and stays there until an exponentially long \textit{escape time}. We call this phenomenon \textit{empirical metastability}. This two-timescale characterization aligns nicely with the existing literature in the following two senses. First, the recurrence time is dimension-independent, and resembles the convergence time of deterministic Gradient Descent (GD). However unlike GD, the Langevin algorithm does not require strong conditions on local initialization, and has the possibility of eventually visiting all optima. Second, the scaling of the escape time is consistent with the Eyring-Kramers law, which states that the Langevin scheme will eventually visit all local minima, but it will take an exponentially long time to transit among them. We apply this path-wise concentration result in the context of statistical learning to examine local notions of generalization and optimality.">
+  <meta property="og:url" content="http://tyliang.github.io/Tengyuan.Liang/publication/02-approx-log-concave/">
+  <meta property="og:title" content="Escaping the Local Minima via Simulated Annealing: Optimization of Approximately Convex Functions | Tengyuan Liang">
+  <meta property="og:description" content="We consider the problem of optimizing an approximately convex function over a bounded convex set in $\mathbb{R}^n$  using only function evaluations. The problem is reduced to sampling from an *approximately* log-concave distribution using the Hit-and-Run method, which is shown to have the same $\mathcal{O}$ complexity as sampling from log-concave distributions. In addition to extend the analysis for log-concave distributions to approximate log-concave distributions, the implementation of the 1-dimensional sampler of the Hit-and-Run walk requires new methods and analysis. The algorithm then is based on simulated annealing which does not relies on first order conditions which makes it essentially immune to local minima. We then apply the method to different motivating problems. In the context of zeroth order stochastic convex optimization, the proposed method produces an $\epsilon$-minimizer after $\mathcal{O}(n^{7.5}\epsilon^{-2})$ noisy function evaluations  by inducing a $\mathcal{O}(\epsilon/n)$-approximately log concave distribution. We also consider in detail the case when the &#39;&#39;amount of non-convexity&#39;&#39; decays towards the optimum of the function. Other applications of the method discussed in this work include private computation of empirical risk minimizers, two-stage stochastic programming, and approximate dynamic programming for online learning.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2018-07-06T00:00:00-05:00">
+  <meta property="article:published_time" content="2015-07-01T00:00:00-05:00">
   
-  <meta property="article:modified_time" content="2018-07-06T00:00:00-05:00">
-  
-
+  <meta property="article:modified_time" content="2015-07-01T00:00:00-05:00">
   
 
-  <title>Local Optimality and Generalization Guarantees for the Langevin Algorithm via Empirical Metastability | Tengyuan Liang</title>
+  
+
+  <title>Escaping the Local Minima via Simulated Annealing: Optimization of Approximately Convex Functions | Tengyuan Liang</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -238,10 +238,10 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Local Optimality and Generalization Guarantees for the Langevin Algorithm via Empirical Metastability</h1>
+    <h1 itemprop="name">Escaping the Local Minima via Simulated Annealing: Optimization of Approximately Convex Functions</h1>
     <span class="pub-authors" itemprop="author">
       
-      Belinda Tzen, Tengyuan Liang, Maxim Raginsky
+      Alexandre Belloni, Tengyuan Liang, Hariharan Narayanan, Alexander Rakhlin
       
     </span>
     <span class="pull-right">
@@ -250,35 +250,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Local%20Optimality%20and%20Generalization%20Guarantees%20for%20the%20Langevin%20Algorithm%20via%20Empirical%20Metastability&amp;url=http%3a%2f%2ftyliang.github.io%2fTengyuan.Liang%2fpublication%2f8-metastability%2f"
+         href="https://twitter.com/intent/tweet?text=Escaping%20the%20Local%20Minima%20via%20Simulated%20Annealing%3a%20Optimization%20of%20Approximately%20Convex%20Functions&amp;url=http%3a%2f%2ftyliang.github.io%2fTengyuan.Liang%2fpublication%2f02-approx-log-concave%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2ftyliang.github.io%2fTengyuan.Liang%2fpublication%2f8-metastability%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2ftyliang.github.io%2fTengyuan.Liang%2fpublication%2f02-approx-log-concave%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2ftyliang.github.io%2fTengyuan.Liang%2fpublication%2f8-metastability%2f&amp;title=Local%20Optimality%20and%20Generalization%20Guarantees%20for%20the%20Langevin%20Algorithm%20via%20Empirical%20Metastability"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2ftyliang.github.io%2fTengyuan.Liang%2fpublication%2f02-approx-log-concave%2f&amp;title=Escaping%20the%20Local%20Minima%20via%20Simulated%20Annealing%3a%20Optimization%20of%20Approximately%20Convex%20Functions"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2ftyliang.github.io%2fTengyuan.Liang%2fpublication%2f8-metastability%2f&amp;title=Local%20Optimality%20and%20Generalization%20Guarantees%20for%20the%20Langevin%20Algorithm%20via%20Empirical%20Metastability"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2ftyliang.github.io%2fTengyuan.Liang%2fpublication%2f02-approx-log-concave%2f&amp;title=Escaping%20the%20Local%20Minima%20via%20Simulated%20Annealing%3a%20Optimization%20of%20Approximately%20Convex%20Functions"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Local%20Optimality%20and%20Generalization%20Guarantees%20for%20the%20Langevin%20Algorithm%20via%20Empirical%20Metastability&amp;body=http%3a%2f%2ftyliang.github.io%2fTengyuan.Liang%2fpublication%2f8-metastability%2f">
+         href="mailto:?subject=Escaping%20the%20Local%20Minima%20via%20Simulated%20Annealing%3a%20Optimization%20of%20Approximately%20Convex%20Functions&amp;body=http%3a%2f%2ftyliang.github.io%2fTengyuan.Liang%2fpublication%2f02-approx-log-concave%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -292,7 +292,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">We study the detailed path-wise behavior of the discrete-time Langevin algorithm for non-convex Empirical Risk Minimization (ERM) through the lens of metastability, adopting some techniques from \cite{berglund_gentz_pathwise}. For a particular local optimum of the empirical risk, with an \textit{arbitrary initialization}, we show that, with high probability, one of the two mutually exclusive events will occur: either the Langevin trajectory ends up somewhere outside the $\epsilon$-neighborhood of this particular optimum within a short \textit{recurrence time}; or it enters this $\epsilon$-neighborhood by the recurrence time and stays there until an exponentially long \textit{escape time}. We call this phenomenon \textit{empirical metastability}. This two-timescale characterization aligns nicely with the existing literature in the following two senses. First, the recurrence time is dimension-independent, and resembles the convergence time of deterministic Gradient Descent (GD). However unlike GD, the Langevin algorithm does not require strong conditions on local initialization, and has the possibility of eventually visiting all optima. Second, the scaling of the escape time is consistent with the Eyring-Kramers law, which states that the Langevin scheme will eventually visit all local minima, but it will take an exponentially long time to transit among them. We apply this path-wise concentration result in the context of statistical learning to examine local notions of generalization and optimality.</p>
+    <p class="pub-abstract" itemprop="text">We consider the problem of optimizing an approximately convex function over a bounded convex set in $\mathbb{R}^n$  using only function evaluations. The problem is reduced to sampling from an <em>approximately</em> log-concave distribution using the Hit-and-Run method, which is shown to have the same $\mathcal{O}$ complexity as sampling from log-concave distributions. In addition to extend the analysis for log-concave distributions to approximate log-concave distributions, the implementation of the 1-dimensional sampler of the Hit-and-Run walk requires new methods and analysis. The algorithm then is based on simulated annealing which does not relies on first order conditions which makes it essentially immune to local minima. We then apply the method to different motivating problems. In the context of zeroth order stochastic convex optimization, the proposed method produces an $\epsilon$-minimizer after $\mathcal{O}(n^{7.5}\epsilon^{-2})$ noisy function evaluations  by inducing a $\mathcal{O}(\epsilon/n)$-approximately log concave distribution. We also consider in detail the case when the &ldquo;amount of non-convexity&rdquo; decays towards the optimum of the function. Other applications of the method discussed in this work include private computation of empirical risk minimizers, two-stage stochastic programming, and approximate dynamic programming for online learning.</p>
     
 
     
@@ -321,7 +321,7 @@
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">Conference on Learning Theory (COLT), PMLR vol.75, 857-875</div>
+          <div class="col-xs-12 col-sm-9">Conference on Learning Theory (COLT), PMLR vol.40, 240–265</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -335,7 +335,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            July, 2018
+            July, 2015
           </div>
         </div>
       </div>
@@ -354,12 +354,12 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/1802.06439" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="https://arxiv.org/abs/1501.07242" target="_blank" rel="noopener">
   Preprint
 </a>
 
 
-<a class="btn btn-primary btn-outline" href="http://proceedings.mlr.press/v75/tzen18a.html" target="_blank" rel="noopener">
+<a class="btn btn-primary btn-outline" href="http://proceedings.mlr.press/v40/Belloni15.html" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -367,7 +367,7 @@
 
 
 <button type="button" class="btn btn-primary btn-outline js-cite-modal"
-        data-filename="/Tengyuan.Liang/files/citations/8-metastability.bib">
+        data-filename="/Tengyuan.Liang/files/citations/02-approx-log-concave.bib">
   Cite
 </button>
 
@@ -399,13 +399,11 @@
 
 <div class="article-tags">
   
+  <a class="btn btn-primary btn-outline" href="/Tengyuan.Liang/tags/numerical-analysis-cs.na">Numerical Analysis (cs.NA)</a>
+  
   <a class="btn btn-primary btn-outline" href="/Tengyuan.Liang/tags/learning-cs.lg">Learning (cs.LG)</a>
   
   <a class="btn btn-primary btn-outline" href="/Tengyuan.Liang/tags/optimization-and-control-math.oc">Optimization and Control (math.OC)</a>
-  
-  <a class="btn btn-primary btn-outline" href="/Tengyuan.Liang/tags/probability-math.pr">Probability (math.PR)</a>
-  
-  <a class="btn btn-primary btn-outline" href="/Tengyuan.Liang/tags/machine-learning-stat.ml">Machine Learning (stat.ML)</a>
   
 </div>
 

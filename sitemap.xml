@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/reversible-gromov-monge/</loc>
+      <lastmod>2021-09-28T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</loc>
       <lastmod>2021-09-07T00:00:00-05:00</lastmod>
     </url>
@@ -131,7 +140,7 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/9-fisher-rao/</loc>
+      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/09-fisher-rao/</loc>
       <lastmod>2019-01-01T00:00:00-06:00</lastmod>
     </url>
     
@@ -320,7 +329,7 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/8-metastability/</loc>
+      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/08-metastability/</loc>
       <lastmod>2018-07-06T00:00:00-05:00</lastmod>
     </url>
     
@@ -392,7 +401,7 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/7-online-sparse-regression/</loc>
+      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/07-online-sparse-regression/</loc>
       <lastmod>2017-08-06T00:00:00-05:00</lastmod>
     </url>
     
@@ -401,7 +410,7 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/6-submatrix-localization/</loc>
+      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/06-submatrix-localization/</loc>
       <lastmod>2017-08-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -410,7 +419,7 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/5-small-world/</loc>
+      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/05-small-world/</loc>
       <lastmod>2017-07-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -455,7 +464,7 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/4-geomtric-inference/</loc>
+      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/04-geomtric-inference/</loc>
       <lastmod>2016-08-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -482,7 +491,7 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/3-offset-rademacher/</loc>
+      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/03-offset-rademacher/</loc>
       <lastmod>2015-07-02T00:00:00-05:00</lastmod>
     </url>
     
@@ -491,7 +500,7 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/2-approx-log-concave/</loc>
+      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/02-approx-log-concave/</loc>
       <lastmod>2015-07-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -500,7 +509,7 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/1-log-determinant-cov/</loc>
+      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/01-log-determinant-cov/</loc>
       <lastmod>2015-05-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -539,7 +548,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication_types/3/</loc>
-      <lastmod>2021-03-30T00:00:00-05:00</lastmod>
+      <lastmod>2021-09-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -738,7 +747,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/learning-cs.lg/</loc>
-      <lastmod>2021-09-07T00:00:00-05:00</lastmod>
+      <lastmod>2021-09-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -768,7 +777,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/machine-learning-stat.ml/</loc>
-      <lastmod>2021-09-07T00:00:00-05:00</lastmod>
+      <lastmod>2021-09-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -788,7 +797,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/methodology-stat.me/</loc>
-      <lastmod>2019-02-17T00:00:00-06:00</lastmod>
+      <lastmod>2021-09-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -878,7 +887,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/statistics-theory-math.st/</loc>
-      <lastmod>2021-09-07T00:00:00-05:00</lastmod>
+      <lastmod>2021-09-28T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

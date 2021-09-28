@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>Reversible Gromov-Monge Sampler for Simulation-Based Inference</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/reversible-gromov-monge/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/reversible-gromov-monge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>How Well Generative Adversarial Networks Learn Distributions</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 -0500</pubDate>
@@ -140,82 +149,82 @@
     
     <item>
       <title>Fisher-Rao Metric, Geometry, and Complexity of Neural Networks</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/9-fisher-rao/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/09-fisher-rao/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/9-fisher-rao/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/09-fisher-rao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local Optimality and Generalization Guarantees for the Langevin Algorithm via Empirical Metastability</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/8-metastability/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/08-metastability/</link>
       <pubDate>Fri, 06 Jul 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/8-metastability/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/08-metastability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Feature Selection: Computationally Efficient Online Sparse Linear Regression under RIP</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/7-online-sparse-regression/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/07-online-sparse-regression/</link>
       <pubDate>Sun, 06 Aug 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/7-online-sparse-regression/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/07-online-sparse-regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational and Statistical Boundaries for Submatrix Localization in a Large Noisy Matrix</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/6-submatrix-localization/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/06-submatrix-localization/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/6-submatrix-localization/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/06-submatrix-localization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Detection and Structural Reconstruction of Small-World Random Networks</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/5-small-world/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/05-small-world/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 -0500</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/5-small-world/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/05-small-world/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geometric Inference for General High-Dimensional Linear Inverse Problems</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/4-geomtric-inference/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/04-geomtric-inference/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 -0500</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/4-geomtric-inference/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/04-geomtric-inference/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning with Square Loss: Localization through Offset Rademacher Complexity</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/3-offset-rademacher/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/03-offset-rademacher/</link>
       <pubDate>Thu, 02 Jul 2015 00:00:00 -0500</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/3-offset-rademacher/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/03-offset-rademacher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Escaping the Local Minima via Simulated Annealing: Optimization of Approximately Convex Functions</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/2-approx-log-concave/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/02-approx-log-concave/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0500</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/2-approx-log-concave/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/02-approx-log-concave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Law of Log Determinant of Sample Covariance Matrix and Optimal Estimation of Differential Entropy for High-Dimensional Gaussian Distributions</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/1-log-determinant-cov/</link>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/01-log-determinant-cov/</link>
       <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
       
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/1-log-determinant-cov/</guid>
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/01-log-determinant-cov/</guid>
       <description></description>
     </item>
     
