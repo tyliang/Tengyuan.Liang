@@ -43,7 +43,7 @@ tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (ma
 
 # Links (optional).
 url_pdf = "pdf/preprint-Hur-Guo-Liang-21.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/"
 url_code = ""
 url_dataset = ""
 url_project = ""
