@@ -18,7 +18,7 @@ authors = ["YoonHaeng Hur", "Wenxuan Guo", "Tengyuan Liang"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:"
+publication = "arXiv:2109.xxxxx"
 publication_short = ""
 
 # Abstract and optional shortened version.
