@@ -18,7 +18,7 @@ authors = ["YoonHaeng Hur", "Wenxuan Guo", "Tengyuan Liang"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:2109.xxxxx"
+publication = "arXiv:2109.14090"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (ma
 
 # Links (optional).
 url_pdf = "pdf/preprint-Hur-Guo-Liang-21.pdf"
-url_preprint = "https://arxiv.org/abs/"
+url_preprint = "https://arxiv.org/abs/2109.14090"
 url_code = ""
 url_dataset = ""
 url_project = ""
