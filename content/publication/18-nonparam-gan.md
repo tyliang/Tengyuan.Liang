@@ -18,7 +18,7 @@ authors = ["Tengyuan Liang"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of Machine Learning Research, to appear"
+publication = "Journal of Machine Learning Research"
 publication_short = "*Journal of Machine Learning Research*"
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ selected = false
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)"]
 
 # Links (optional).
-url_pdf = "pdf/21-Liang-JMLR.pdf"
+url_pdf = "https://www.jmlr.org/papers/v22/20-911.html"
 url_preprint = "http://arxiv.org/abs/1811.03179"
 # url_preprint = "https://arxiv.org/abs/1712.08244" old arxiv version
 url_code = ""
