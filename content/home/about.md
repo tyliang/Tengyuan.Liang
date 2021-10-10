@@ -33,10 +33,10 @@ weight = 5
 
 I am an [Associate Professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) at the [University of Chicago](https://www.uchicago.edu). I use principles from [learning theory](https://en.wikipedia.org/wiki/Computational_learning_theory) and [mathematical statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) to understand models and data.
 
-My research is supported by the NSF CAREER award and the William S. Fishman faculty fellowship. My current research aims to:
+My research is supported by the National Science Foundation CAREER award and the William S. Fishman faculty fellowship. My current research aims to:
 
 - bridge the empirical and theoretical gap in modern statistical learning;
-- understand the computational and algorithmic aspects of statistical inference;
+- understand the computational and algorithmic aspects of infinite-dimensional statistical inference;
 - explore the role of stochasticity in solving non-convex optimization.
 
 <!-- His CV can be found [here](pdf/Liang-CV.pdf). -->
