@@ -1,6 +1,6 @@
 +++
 title = "A Precise High-Dimensional Asymptotic Theory for Boosting and Minimum-L1-Norm Interpolated Classifiers"
-date = 2020-02-03
+date = 2021-12-05
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Tengyuan Liang", "Pragya Sur"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:2002.01586"
-publication_short = ""
+publication = "Annals of Statistics, minor revision"
+publication_short = "*Annals of Statistics*, minor revision"
 
 # Abstract and optional shortened version.
 abstract = "This paper establishes a precise high-dimensional asymptotic theory for Boosting on separable data, taking statistical and computational perspectives. We consider the setting where the number of features (weak learners) $p$ scales with the sample size $n$, in an over-parametrized regime. On the statistical front, we provide an exact analysis of the generalization error of Boosting, when the algorithm interpolates the training data and maximizes an empirical $L_1$ margin. The angle between the Boosting solution and the ground truth is characterized explicitly. On the computational front, we provide a sharp analysis of the stopping time when Boosting approximately maximizes the empirical $L_1$ margin. Furthermore we discover that, the larger the margin, the smaller the proportion of active features (with zero initialization). At the heart of our theory lies a detailed study of the maximum $L_1$ margin, using tools from convex geometry. The maximum $L_1$ margin can be precisely described by a new system of non-linear equations, which we study using a novel uniform deviation argument. Preliminary numerical results are presented to demonstrate the accuracy of our theory."
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
