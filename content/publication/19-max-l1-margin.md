@@ -1,6 +1,6 @@
 +++
 title = "A Precise High-Dimensional Asymptotic Theory for Boosting and Minimum-L1-Norm Interpolated Classifiers"
-date = 2021-12-05
+date = 2022-01-04
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["Tengyuan Liang", "Pragya Sur"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Annals of Statistics, minor revision"
-publication_short = "*Annals of Statistics*, minor revision"
+publication = "Annals of Statistics"
+publication_short = "*Annals of Statistics*"
 
 # Abstract and optional shortened version.
 abstract = "This paper establishes a precise high-dimensional asymptotic theory for Boosting on separable data, taking statistical and computational perspectives. We consider the setting where the number of features (weak learners) $p$ scales with the sample size $n$, in an over-parametrized regime. On the statistical front, we provide an exact analysis of the generalization error of Boosting, when the algorithm interpolates the training data and maximizes an empirical $L_1$ margin. The angle between the Boosting solution and the ground truth is characterized explicitly. On the computational front, we provide a sharp analysis of the stopping time when Boosting approximately maximizes the empirical $L_1$ margin. Furthermore we discover that, the larger the margin, the smaller the proportion of active features (with zero initialization). At the heart of our theory lies a detailed study of the maximum $L_1$ margin, using tools from convex geometry. The maximum $L_1$ margin can be precisely described by a new system of non-linear equations, which we study using a novel uniform deviation argument. Preliminary numerical results are presented to demonstrate the accuracy of our theory."
@@ -42,7 +42,7 @@ selected = false
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Information Theory (cs.IT)"]
 
 # Links (optional).
-url_pdf = "pdf/preprint-Liang-Sur-20.pdf"
+url_pdf = "pdf/22-Liang-Sur-AOS.pdf"
 url_preprint = "https://arxiv.org/abs/2002.01586"
 url_code = ""
 url_dataset = ""
