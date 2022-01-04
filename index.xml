@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tengyuan Liang on Tengyuan Liang</title>
+    <link>http://tyliang.github.io/Tengyuan.Liang/</link>
+    <description>Recent content in Tengyuan Liang on Tengyuan Liang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Precise High-Dimensional Asymptotic Theory for Boosting and Minimum-L1-Norm Interpolated Classifiers</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/19-max-l1-margin/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/19-max-l1-margin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reversible Gromov-Monge Sampler for Simulation-Based Inference</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/reversible-gromov-monge/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/reversible-gromov-monge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Well Generative Adversarial Networks Learn Distributions</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal Prediction Band via Semi-Definite Programming</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/prediction-band/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/prediction-band/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mehler’s Formula, Branching Process, and Compositional Kernels of Deep Neural Networks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpolating Classifiers Make Few Mistakes</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/label-interpolation/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/label-interpolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Neural Networks for Estimation and Inference</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/16-deep-ate/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/16-deep-ate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Multiple Descent of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/15-multi-descent-kernel/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/15-multi-descent-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Just Interpolate: Kernel &#39;&#39;Ridgeless&#39;&#39; Regression Can Generalize</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</link>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weighted Message Passing and Minimum Energy Flow for Heterogeneous Stochastic Block Models with Side Information</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/13-wmp-sbm/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/13-wmp-sbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Individual Heterogeneity: An Automatic Inference Framework</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/heterogeneity/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/heterogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating Certain Integral Probability Metrics (IPMs) Is as Hard as Estimating under the IPMs</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/ipm-est/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/ipm-est/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Inference for the Population Landscape via Moment Adjusted Stochastic Gradients</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/11-infer-ma-sgd/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/11-infer-ma-sgd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interaction Matters: A Note on Non-asymptotic Local Convergence of Generative Adversarial Networks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/10-opt-gan/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/10-opt-gan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
