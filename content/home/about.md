@@ -36,7 +36,7 @@ I am an [Associate Professor](https://www.chicagobooth.edu/faculty/directory/l/t
 My research is supported by the NSF CAREER award and the William S. Fishman faculty fellowship. My current research aims to:
 
 - bridge the empirical and theoretical gap in modern statistical learning;
-- understand optimization and statistics of infinite-dimensional models;
+- understand optimization and inference of infinite-dimensional models;
 - explore the role of stochasticity in solving non-convex optimization.
 
 <!-- His CV can be found [here](pdf/Liang-CV.pdf). -->
