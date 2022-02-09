@@ -320,15 +320,6 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/project/applications/</loc>
-      <lastmod>2018-09-19T18:32:31-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://tyliang.github.io/Tengyuan.Liang/talk/2018-09-26-duke/</loc>
       <lastmod>2018-07-16T14:42:22-05:00</lastmod>
     </url>
@@ -410,15 +401,6 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/project/deep-learning/</loc>
-      <lastmod>2018-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication/07-online-sparse-regression/</loc>
       <lastmod>2017-08-06T00:00:00-05:00</lastmod>
     </url>
@@ -438,15 +420,6 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication/05-small-world/</loc>
-      <lastmod>2017-07-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://tyliang.github.io/Tengyuan.Liang/project/stochastic-optimization/</loc>
       <lastmod>2017-07-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -491,24 +464,6 @@
     
     <url>
     
-      <loc>http://tyliang.github.io/Tengyuan.Liang/project/stat-learning/</loc>
-      <lastmod>2016-06-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://tyliang.github.io/Tengyuan.Liang/project/computation-statistics-boundaries/</loc>
-      <lastmod>2016-01-01T00:00:00-06:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication/03-offset-rademacher/</loc>
       <lastmod>2015-07-02T00:00:00-05:00</lastmod>
     </url>
@@ -529,15 +484,6 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication/01-log-determinant-cov/</loc>
       <lastmod>2015-05-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://tyliang.github.io/Tengyuan.Liang/project/high-dim-statistics/</loc>
-      <lastmod>2015-01-01T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -856,16 +802,6 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/probability-math.pr/</loc>
       <lastmod>2020-01-03T00:00:00-06:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://tyliang.github.io/Tengyuan.Liang/project/</loc>
-      <lastmod>2018-09-19T18:32:31-05:00</lastmod>
       <priority>0</priority>
     </url>
     
