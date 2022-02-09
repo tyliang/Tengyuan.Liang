@@ -19,7 +19,7 @@ publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "arXiv:2109.14090"
-publication_short = ""
+publication_short = "*J. Am. Stat. Assoc.*, under revision"
 
 # Abstract and optional shortened version.
 abstract = "This paper introduces a new simulation-based inference procedure to model and sample from multi-dimensional probability distributions given access to i.i.d. samples, circumventing usual approaches of explicitly modeling the density function or designing Markov chain Monte Carlo. Motivated by the seminal work of Memoli (2011) and Sturm (2012) on distance and isomorphism between metric measure spaces, we propose a new notion called the Reversible Gromov-Monge (RGM) distance and study how RGM can be used to design new transform samplers in order to perform simulation-based inference. Our RGM sampler can also estimate optimal alignments between two heterogenous metric measure spaces from empirical data sets, with estimated maps that approximately push forward one measure to the other, and vice versa. Analytic properties of RGM distance are derived; statistical rate of convergence, representation, and optimization questions regarding the induced sampler are studied. Synthetic and real-world examples showcasing the effectiveness of the RGM sampler are also demonstrated."

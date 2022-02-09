@@ -19,7 +19,7 @@ publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "arXiv:2103.17203"
-publication_short = ""
+publication_short = "*J. Royal Stat. Soc. B*, under revision"
 
 # Abstract and optional shortened version.
 abstract = "We propose a computationally efficient method to construct nonparametric, heteroskedastic prediction bands for uncertainty quantification, with or without any user-specified predictive model. The data-adaptive prediction band is universally applicable with minimal distributional assumptions, with provable strong coverage properties, and easy to implement using standard convex programs. Our approach can be viewed as a novel variance interpolation with confidence and further leverages techniques from semi-definite programming and sum-of-squares optimization. Theoretical and numerical performances for the proposed approach for uncertainty quantification are analyzed."
