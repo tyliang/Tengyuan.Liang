@@ -1,5 +1,5 @@
 +++
-title = "Online Learning to Transport via Minimal Selection Principle"
+title = "Online Learning to Transport via the Minimal Selection Principle"
 date = 2022-02-07
 draft = false
 
