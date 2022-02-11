@@ -18,7 +18,7 @@ authors = ["Wenxuan Guo", "YoonHaeng Hur", "Tengyuan Liang", "Chris Ryan"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:2202.xxxxx"
+publication = "arXiv:2202.04732"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Optimization and Cont
 
 # Links (optional).
 url_pdf = "pdf/preprint-Guo-Hur-Liang-Ryan-22.pdf"
-url_preprint = "https://arxiv.org/abs/"
+url_preprint = "https://arxiv.org/abs/2202.04732"
 url_code = ""
 url_dataset = ""
 url_project = ""
