@@ -11,6 +11,15 @@
     <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>High-Dimensional Asymptotics of Langevin Dynamics in Spiked Matrix Models</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/spike-matrix-langevin/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/spike-matrix-langevin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Online Learning to Transport via the Minimal Selection Principle</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/learning-to-transport/</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 -0600</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Sat, 26 Oct 2019 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/ipm-est/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical Inference for the Population Landscape via Moment Adjusted Stochastic Gradients</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/11-infer-ma-sgd/</link>
-      <pubDate>Sun, 17 Feb 2019 00:00:00 -0600</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/11-infer-ma-sgd/</guid>
       <description></description>
     </item>
     
