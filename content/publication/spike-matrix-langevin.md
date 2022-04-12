@@ -18,7 +18,7 @@ authors = ["Tengyuan Liang", "Subhabrata Sen", "Pragya Sur"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "arXiv:2204.04476"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = ["Optimization and Control (math.OC)",  "Statistics Theory (math.ST)",  "
 
 # Links (optional).
 url_pdf = "pdf/preprint-Liang-Sen-Sur-22.pdf"
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/2204.04476"
 url_code = ""
 url_dataset = ""
 url_project = ""
