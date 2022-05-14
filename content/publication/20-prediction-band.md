@@ -1,6 +1,6 @@
 +++
 title = "Universal Prediction Band via Semi-Definite Programming"
-date = 2021-03-30
+date = 2022-05-14
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Tengyuan Liang"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:2103.17203"
-publication_short = "*Journal of the Royal Statistical Society: Series B (Statistical Methodology)*, under revision"
+publication = "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+publication_short = "*Journal of the Royal Statistical Society: Series B (Statistical Methodology)*"
 
 # Abstract and optional shortened version.
 abstract = "We propose a computationally efficient method to construct nonparametric, heteroskedastic prediction bands for uncertainty quantification, with or without any user-specified predictive model. The data-adaptive prediction band is universally applicable with minimal distributional assumptions, with provable strong coverage properties, and easy to implement using standard convex programs. Our approach can be viewed as a novel variance interpolation with confidence and further leverages techniques from semi-definite programming and sum-of-squares optimization. Theoretical and numerical performances for the proposed approach for uncertainty quantification are analyzed."
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,7 +42,7 @@ selected = true
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Optimization and Control (math.OC)", "Econometrics (econ.EM)"]
 
 # Links (optional).
-url_pdf = "pdf/preprint-Liang-21.pdf"
+url_pdf = "pdf/22-Liang-JRSSB.pdf"
 url_preprint = "https://arxiv.org/abs/2103.17203"
 url_code = ""
 url_dataset = ""
