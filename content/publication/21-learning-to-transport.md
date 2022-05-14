@@ -1,6 +1,6 @@
 +++
 title = "Online Learning to Transport via the Minimal Selection Principle"
-date = 2022-02-07
+date = 2022-05-14
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
