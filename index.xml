@@ -11,6 +11,15 @@
     <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Universal Prediction Band via Semi-Definite Programming</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/20-prediction-band/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/20-prediction-band/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>High-Dimensional Asymptotics of Langevin Dynamics in Spiked Matrix Models</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/spike-matrix-langevin/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 -0500</pubDate>
@@ -52,15 +61,6 @@
       <pubDate>Tue, 07 Sep 2021 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Universal Prediction Band via Semi-Definite Programming</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/prediction-band/</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/prediction-band/</guid>
       <description></description>
     </item>
     
