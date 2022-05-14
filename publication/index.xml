@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>Online Learning to Transport via the Minimal Selection Principle</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</link>
-      <pubDate>Sat, 14 May 2022 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Universal Prediction Band via Semi-Definite Programming</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/20-prediction-band/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 -0500</pubDate>
@@ -36,6 +27,15 @@
       <pubDate>Sun, 10 Apr 2022 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/spike-matrix-langevin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Learning to Transport via the Minimal Selection Principle</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</guid>
       <description></description>
     </item>
     
