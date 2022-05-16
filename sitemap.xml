@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</loc>
+      <lastmod>2022-05-15T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication/20-prediction-band/</loc>
       <lastmod>2022-05-14T00:00:00-05:00</lastmod>
     </url>
@@ -16,15 +25,6 @@
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication/spike-matrix-langevin/</loc>
       <lastmod>2022-04-10T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</loc>
-      <lastmod>2022-02-22T00:00:00-06:00</lastmod>
     </url>
     
   
@@ -501,7 +501,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication_types/1/</loc>
-      <lastmod>2022-02-22T00:00:00-06:00</lastmod>
+      <lastmod>2022-05-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -720,7 +720,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/learning-cs.lg/</loc>
-      <lastmod>2022-05-14T00:00:00-05:00</lastmod>
+      <lastmod>2022-05-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -750,7 +750,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/machine-learning-stat.ml/</loc>
-      <lastmod>2022-05-14T00:00:00-05:00</lastmod>
+      <lastmod>2022-05-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -770,7 +770,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/methodology-stat.me/</loc>
-      <lastmod>2022-02-22T00:00:00-06:00</lastmod>
+      <lastmod>2022-05-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -800,7 +800,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/tags/optimization-and-control-math.oc/</loc>
-      <lastmod>2022-05-14T00:00:00-05:00</lastmod>
+      <lastmod>2022-05-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -820,7 +820,7 @@
     <url>
     
       <loc>http://tyliang.github.io/Tengyuan.Liang/publication_types/</loc>
-      <lastmod>2022-02-22T00:00:00-06:00</lastmod>
+      <lastmod>2022-05-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
