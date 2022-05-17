@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Tengyuan Liang</title>
+    <link>http://tyliang.github.io/Tengyuan.Liang/home/</link>
+    <description>Recent content in Homes on Tengyuan Liang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://tyliang.github.io/Tengyuan.Liang/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/about/</guid>
+      <description>Biography I am an Associate Professor at the University of Chicago. I use principles from Learning and Statistics to understand models and data.
+My research is supported by the NSF CAREER award and the William S. Fishman faculty fellowship. My current research aims to:
+ bridge the empirical and theoretical gap in modern statistical learning; understand optimization and inference of infinite-dimensional models; explore the role of stochasticity in solving non-convex optimization.</description>
+    </item>
+    
+    <item>
+      <title>Manuscripts</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/teaching/</guid>
+      <description>Booth:
+ 41000 (MBA): Business Statistics: Fall 21, Fall 20, Fall 19, Fall 18, Spring 18
+ Voluntary (PhD): Reading Group
+  Wharton:
+ 622 (MBA): Advanced Quantitative Modeling: Spring 15, Spring 14  </description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/awards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/awards/</guid>
+      <description> NSF CAREER Award, 2021-2026
+ David G. Booth Faculty Fellow, William S. Fishman Faculty Scholar, 2021-2022
+ George C. Tiao Faculty Fellowship, 2017-2021
+for research in computational and data science
+ J. Parker Memorial Bursk Award, 2016
+for excellence in research
+ US Junior Oberwolfach Fellow, 2015
+ Winkelman Fellowship, 2014-2017
+the highest honorific fellowship awarded by the Wharton School
+  </description>
+    </item>
+    
+    <item>
+      <title>Professional Service</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/service/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/service/</guid>
+      <description> Editorial Board, Journal of Machine Learning Research
+ Senior Program Committee, Conference on Learning Theory (COLT)
+  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops &amp; Talks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
