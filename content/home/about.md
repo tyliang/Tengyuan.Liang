@@ -20,12 +20,12 @@ weight = 5
 [[education.courses]]
   course = "PhD in Statistics"
   institution = "University of Pennsylvania, The Wharton School"
-  year = 2017
+  year = 
 
 [[education.courses]]
-  course = "BSc in Mathematics and Applied Mathematics"
+  course = "BSc in Mathematics"
   institution = "Peking University"
-  year = 2012
+  year = 
 
 +++
 
