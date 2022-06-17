@@ -42,7 +42,7 @@ selected = false
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Information Theory (cs.IT)"]
 
 # Links (optional).
-url_pdf = "https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-3/A-precise-high-dimensional-asymptotic-theory-for-boosting-and-minimum/10.1214/22-AOS2170.full"
+url_pdf = "https://doi.org/10.1214/22-AOS2170"
 url_preprint = "https://arxiv.org/abs/2002.01586"
 url_code = ""
 url_dataset = ""
