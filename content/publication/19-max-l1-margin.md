@@ -18,7 +18,7 @@ authors = ["Tengyuan Liang", "Pragya Sur"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Annals of Statistics"
+publication = "Annals of Statistics, vol.50 (3), 1669-1695"
 publication_short = "*Annals of Statistics*"
 
 # Abstract and optional shortened version.
@@ -42,7 +42,7 @@ selected = false
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Information Theory (cs.IT)"]
 
 # Links (optional).
-url_pdf = "pdf/22-Liang-Sur-AOS.pdf"
+url_pdf = "https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-3/A-precise-high-dimensional-asymptotic-theory-for-boosting-and-minimum/10.1214/22-AOS2170.full"
 url_preprint = "https://arxiv.org/abs/2002.01586"
 url_code = ""
 url_dataset = ""
