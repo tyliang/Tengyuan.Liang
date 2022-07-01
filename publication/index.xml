@@ -15,7 +15,7 @@
     <item>
       <title>Online Learning to Transport via the Minimal Selection Principle</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</link>
-      <pubDate>Sun, 15 May 2022 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Universal Prediction Band via Semi-Definite Programming</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/20-prediction-band/</link>
-      <pubDate>Sat, 14 May 2022 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/20-prediction-band/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>High-Dimensional Asymptotics of Langevin Dynamics in Spiked Matrix Models</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/spike-matrix-langevin/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/spike-matrix-langevin/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>A Precise High-Dimensional Asymptotic Theory for Boosting and Minimum-L1-Norm Interpolated Classifiers</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/19-max-l1-margin/</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/19-max-l1-margin/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Reversible Gromov-Monge Sampler for Simulation-Based Inference</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/reversible-gromov-monge/</link>
-      <pubDate>Tue, 28 Sep 2021 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/reversible-gromov-monge/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>How Well Generative Adversarial Networks Learn Distributions</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</link>
-      <pubDate>Tue, 07 Sep 2021 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Mehler’s Formula, Branching Process, and Compositional Kernels of Deep Neural Networks</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Interpolating Classifiers Make Few Mistakes</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/label-interpolation/</link>
-      <pubDate>Tue, 19 Jan 2021 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/label-interpolation/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Deep Neural Networks for Estimation and Inference</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/16-deep-ate/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/16-deep-ate/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 -0600</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>On the Multiple Descent of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/15-multi-descent-kernel/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/15-multi-descent-kernel/</guid>
       <description></description>
@@ -114,7 +114,7 @@
     <item>
       <title>Just Interpolate: Kernel &#39;&#39;Ridgeless&#39;&#39; Regression Can Generalize</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</link>
-      <pubDate>Sat, 08 Feb 2020 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</guid>
       <description></description>
@@ -123,7 +123,7 @@
     <item>
       <title>Weighted Message Passing and Minimum Energy Flow for Heterogeneous Stochastic Block Models with Side Information</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/13-wmp-sbm/</link>
-      <pubDate>Fri, 03 Jan 2020 00:00:00 -0600</pubDate>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/13-wmp-sbm/</guid>
       <description></description>
@@ -132,7 +132,7 @@
     <item>
       <title>Deep Learning for Individual Heterogeneity: An Automatic Inference Framework</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/heterogeneity/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/heterogeneity/</guid>
       <description></description>
@@ -141,7 +141,7 @@
     <item>
       <title>Estimating Certain Integral Probability Metrics (IPMs) Is as Hard as Estimating under the IPMs</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/ipm-est/</link>
-      <pubDate>Sat, 26 Oct 2019 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/ipm-est/</guid>
       <description></description>
@@ -150,7 +150,7 @@
     <item>
       <title>Statistical Inference for the Population Landscape via Moment Adjusted Stochastic Gradients</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/11-infer-ma-sgd/</link>
-      <pubDate>Sun, 17 Feb 2019 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/11-infer-ma-sgd/</guid>
       <description></description>
@@ -159,7 +159,7 @@
     <item>
       <title>Interaction Matters: A Note on Non-asymptotic Local Convergence of Generative Adversarial Networks</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/10-opt-gan/</link>
-      <pubDate>Wed, 02 Jan 2019 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/10-opt-gan/</guid>
       <description></description>
@@ -168,7 +168,7 @@
     <item>
       <title>Fisher-Rao Metric, Geometry, and Complexity of Neural Networks</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/09-fisher-rao/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/09-fisher-rao/</guid>
       <description></description>
@@ -177,7 +177,7 @@
     <item>
       <title>Local Optimality and Generalization Guarantees for the Langevin Algorithm via Empirical Metastability</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/08-metastability/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/08-metastability/</guid>
       <description></description>
@@ -186,7 +186,7 @@
     <item>
       <title>Adaptive Feature Selection: Computationally Efficient Online Sparse Linear Regression under RIP</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/07-online-sparse-regression/</link>
-      <pubDate>Sun, 06 Aug 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/07-online-sparse-regression/</guid>
       <description></description>
@@ -195,7 +195,7 @@
     <item>
       <title>Computational and Statistical Boundaries for Submatrix Localization in a Large Noisy Matrix</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/06-submatrix-localization/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/06-submatrix-localization/</guid>
       <description></description>
@@ -204,7 +204,7 @@
     <item>
       <title>On Detection and Structural Reconstruction of Small-World Random Networks</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/05-small-world/</link>
-      <pubDate>Sat, 01 Jul 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/05-small-world/</guid>
       <description></description>
@@ -213,7 +213,7 @@
     <item>
       <title>Geometric Inference for General High-Dimensional Linear Inverse Problems</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/04-geomtric-inference/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/04-geomtric-inference/</guid>
       <description></description>
@@ -222,7 +222,7 @@
     <item>
       <title>Learning with Square Loss: Localization through Offset Rademacher Complexity</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/03-offset-rademacher/</link>
-      <pubDate>Thu, 02 Jul 2015 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 02 Jul 2015 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/03-offset-rademacher/</guid>
       <description></description>
@@ -231,7 +231,7 @@
     <item>
       <title>Escaping the Local Minima via Simulated Annealing: Optimization of Approximately Convex Functions</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/02-approx-log-concave/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/02-approx-log-concave/</guid>
       <description></description>
@@ -240,7 +240,7 @@
     <item>
       <title>Law of Log Determinant of Sample Covariance Matrix and Optimal Estimation of Differential Entropy for High-Dimensional Gaussian Distributions</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/01-log-determinant-cov/</link>
-      <pubDate>Fri, 01 May 2015 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0100</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/01-log-determinant-cov/</guid>
       <description></description>
