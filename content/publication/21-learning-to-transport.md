@@ -42,8 +42,8 @@ selected = false
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Optimization and Control (math.OC)", "Methodology (stat.ME)"]
 
 # Links (optional).
-url_pdf = "pdf/22-Guo-Hur-Liang-Ryan-COLT.pdf"
-url_preprint = "https://proceedings.mlr.press/v178/guo22a.html"
+url_pdf = "https://proceedings.mlr.press/v178/guo22a.html"
+url_preprint = "https://arxiv.org/abs/2202.04732"
 url_code = ""
 url_dataset = ""
 url_project = ""
