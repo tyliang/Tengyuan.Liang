@@ -21,7 +21,9 @@ To remove this section, either delete `content/home/teaching.md` or edit the fro
 
 - NSF CAREER Award, 2021-2026
 
-- David G. Booth Faculty Fellow, William S. Fishman Faculty Scholar, 2021-2022     
+- William Ladany Faculty Fellow, 2022-2023
+
+- William S. Fishman Faculty Scholar, 2021-2022     
 
 - George C. Tiao Faculty Fellowship, 2017-2021    
     <sub>*for research in computational and data science*</sub>
