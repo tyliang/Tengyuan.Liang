@@ -42,7 +42,7 @@ selected = false
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Optimization and Control (math.OC)", "Econometrics (econ.EM)"]
 
 # Links (optional).
-url_pdf = "pdf/22-Liang-JRSSB.pdf"
+url_pdf = "https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12542"
 url_preprint = "https://arxiv.org/abs/2103.17203"
 url_code = ""
 url_dataset = ""
