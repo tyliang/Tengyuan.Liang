@@ -23,7 +23,7 @@ Booth:
 
 - 41000 (MBA): [Business Statistics](https://tyliang.github.io/BUS41000/): Fall 21, Fall 20, Fall 19, Fall 18, Spring 18
 
-- Voluntary (PhD): [Reading Group](https://tyliang.github.io/research/2018/03/09/reading-group.html)
+- Voluntary (PhD): Reading Group
 
 Wharton:
 
