@@ -293,10 +293,10 @@ defaultContentLanguageInSubdir = false
 #   url = "#contact"
 #   weight = 5
 
-[[menu.main]]
-  name = "Vitae"
-  url = "pdf/Liang-CV.pdf"
-  weight = 0
+# [[menu.main]]
+#   name = "Vitae"
+#   url = "pdf/Liang-CV.pdf"
+#   weight = 0
 
 # Taxonomies.
 [taxonomies]
