@@ -11,6 +11,15 @@
     <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Blessings and Curses of Covariate Shifts: Adversarial Learning Dynamics, Directional Convergence, and Equilibria</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/equilibrium-covariate-shift/</link>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/equilibrium-covariate-shift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Online Learning to Transport via the Minimal Selection Principle</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</link>
       <pubDate>Sun, 15 May 2022 00:00:00 -0500</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/heterogeneity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating Certain Integral Probability Metrics (IPMs) Is as Hard as Estimating under the IPMs</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/ipm-est/</link>
-      <pubDate>Sat, 26 Oct 2019 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/ipm-est/</guid>
       <description></description>
     </item>
     
