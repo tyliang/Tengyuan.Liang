@@ -18,7 +18,7 @@ authors = ["Tengyuan Liang"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:2212.xxxxx"
+publication = "arXiv:2212.02457"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -43,7 +43,7 @@ tags = ["Optimization and Control (math.OC)", "Machine Learning (stat.ML)", "Lea
 
 # Links (optional).
 url_pdf = "pdf/preprint-Liang-22.pdf"
-url_preprint = "https://arxiv.org/abs/2212.xxxxx"
+url_preprint = "https://arxiv.org/abs/2212.02457"
 url_code = ""
 url_dataset = ""
 url_project = ""
