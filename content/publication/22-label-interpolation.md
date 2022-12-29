@@ -42,7 +42,7 @@ selected = false
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Numerical Analysis (cs.NA)"]
 
 # Links (optional).
-url_pdf = "pdf/preprint-Liang-Recht-21.pdf"
+url_pdf = "pdf/23-Liang-Recht-JMLR.pdf"
 url_preprint = "https://arxiv.org/abs/2101.11815"
 url_code = ""
 url_dataset = ""
