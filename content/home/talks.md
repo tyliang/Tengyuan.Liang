@@ -11,7 +11,7 @@ subtitle = ""
 weight = 40
 
 # Number of talks to list.
-count = 6
+count = 8
 
 # List format.
 #   0 = Simple
