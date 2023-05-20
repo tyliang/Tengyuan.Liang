@@ -10,20 +10,21 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Statistical Inference",
-    "Statistical Learning",
-    "Stochastic Optimization",
-    "Economic and Business Applications"
+    "Inference",
+    "Learning",
+    "Optimization",
+    "Econometrics",
+	"AI in Business"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Statistics"
-  institution = "University of Pennsylvania, The Wharton School"
+  course = "University of Pennsylvania, The Wharton School"
+  institution = "PhD in Statistics"
 
 [[education.courses]]
-  course = "BSc in Mathematics"
-  institution = "Peking University"
+  course = "Peking University"
+  institution = "BSc in Mathematics"
 
 +++
 
