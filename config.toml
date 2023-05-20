@@ -218,10 +218,10 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  [[params.social]]
-    icon = "envelope"
-    icon_pack = "fa"
-    link = "mailto:tengyuan.liang@chicagobooth.edu"
+  # [[params.social]]
+  #   icon = "envelope"
+  #   icon_pack = "fa"
+  #   link = "mailto:tengyuan.liang@chicagobooth.edu"
   
   # # [[params.social]]
   # #   icon = "twitter"
@@ -239,11 +239,11 @@ defaultContentLanguageInSubdir = false
   #   icon = "google-scholar"
   #   icon_pack = "ai"
   #   link = "https://scholar.google.com/citations?hl=en&user=6GTMYNEAAAAJ&view_op=list_works&sortby=pubdate"
-  #
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "pdf/Liang-CV.pdf"
+  
+  [[params.social]]
+    icon = "cv"
+    icon_pack = "ai"
+    link = "pdf/Liang-CV.pdf"
 
   # [[params.social]]
   #   icon = "github"
