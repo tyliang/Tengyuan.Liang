@@ -10,11 +10,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Inference",
-    "Learning",
-    "Optimization",
-    "Econometrics",
-	"AI in Business"
+    "Statistical Inference",
+    "Statistical Learning",
+    "Stochastic Optimization",
+	"Applied AI in Economic and Social Sciences"
   ]
 
 # List your qualifications (such as academic degrees).
