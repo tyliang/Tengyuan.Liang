@@ -13,7 +13,7 @@ weight = 5
     "Statistical Inference",
     "Statistical Learning",
     "Stochastic Optimization",
-	"Applied AI in Economic and Social Sciences"
+	"Applied AI"
   ]
 
 # List your qualifications (such as academic degrees).
