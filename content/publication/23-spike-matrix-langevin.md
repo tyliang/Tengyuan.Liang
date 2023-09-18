@@ -1,6 +1,6 @@
 +++
 title = "High-Dimensional Asymptotics of Langevin Dynamics in Spiked Matrix Models"
-date = 2022-04-10
+date = 2023-08-18
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["Tengyuan Liang", "Subhabrata Sen", "Pragya Sur"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:2204.04476"
-publication_short = ""
+publication = "Information and Inference: A Journal of the IMA"
+publication_short = "*Information and Inference: A Journal of the IMA*"
 
 # Abstract and optional shortened version.
 abstract = "We study Langevin dynamics for recovering the planted signal in the spiked matrix model. We provide a path-wise characterization of the overlap between the output of the Langevin algorithm and the planted signal. This overlap is characterized in terms of a self-consistent system of integrodifferential equations, usually referred to as the Crisanti-Horner-Sommers- Cugliandolo-Kurchan (CHSCK) equations in the spin-glass literature. As a second contribution, we derive an explicit formula for the limiting overlap in terms of the signal-to-noise ratio and the injected noise in the diffusion. As an upshot, this uncovers a sharp phase transition—in one regime, the limiting overlap is strictly positive, while in the other, the injected noise overcomes the signal, and the limiting overlap is zero."
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
