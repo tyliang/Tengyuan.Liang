@@ -13,7 +13,7 @@ weight = 5
     "Statistical Inference",
     "Statistical Learning",
     "Stochastic Optimization",
-	"AI $\\cap$ Economics"
+	"AI $\\cap$ Econ."
   ]
 
 # List your qualifications (such as academic degrees).
