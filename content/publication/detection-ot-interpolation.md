@@ -39,7 +39,7 @@ selected = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Optimization and Control (math.OC)", "Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)"]
+tags = ["Statistics Theory (math.ST)"]
 
 # Links (optional).
 url_pdf = "pdf/preprint-Hur-Liang-23.pdf"
