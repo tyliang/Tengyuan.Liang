@@ -13,11 +13,29 @@
     
     
     <item>
+      <title>Randomization Inference When N Equals One</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/n-of-1/</link>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/n-of-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>High-Dimensional Asymptotics of Langevin Dynamics in Spiked Matrix Models</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/23-spike-matrix-langevin/</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 -0500</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/23-spike-matrix-langevin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weak Signal Detection via Displacement Interpolation</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publication/detection-ot-interpolation/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 -0600</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/detection-ot-interpolation/</guid>
       <description></description>
     </item>
     
