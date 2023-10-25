@@ -42,7 +42,7 @@ selected = false
 tags = ["Optimization and Control (math.OC)",  "Statistics Theory (math.ST)",  "Probability (math.PR)"]
 
 # Links (optional).
-url_pdf = "pdf/23-Liang-Sen-Sur-IMAIAI.pdf"
+url_pdf = "https://doi.org/10.1093/imaiai/iaad042"
 url_preprint = "https://arxiv.org/abs/2204.04476"
 url_code = ""
 url_dataset = ""
