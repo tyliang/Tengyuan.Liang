@@ -1,5 +1,5 @@
 +++
-title = "Weak Signal Detection via Displacement Interpolation"
+title = "Detecting Weak Distribution Shifts via Displacement Interpolation"
 date = 2023-02-08
 draft = false
 
