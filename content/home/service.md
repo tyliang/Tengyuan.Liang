@@ -19,6 +19,8 @@ weight = 35
 
 To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`. -->
 
+- Associate Editor, *[Operations Research](https://pubsonline.informs.org/journal/opre)*
+
 - Editorial Board, *[Journal of Machine Learning Research](https://www.jmlr.org)*
 
 - Senior Program Committee, *[Conference on Learning Theory (COLT)](https://www.learningtheory.org)*
