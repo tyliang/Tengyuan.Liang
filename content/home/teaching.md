@@ -21,7 +21,9 @@ To remove this section, either delete `content/home/teaching.md` or edit the fro
 
 Booth:
 
-- 41000 (MBA): [Business Statistics](https://tyliang.github.io/BUS41000/): Winter 23, Fall 21, Fall 20, Fall 19, Fall 18, Spring 18
+- 41000 (MBA): [Business Statistics](https://tyliang.github.io/BUS41000/): Winter 24, Winter 23, Fall 21, Fall 20, Fall 19, Fall 18, Spring 18
+
+- 41918 (PhD): [Data, Learning, and Algorithms]: Winter 24
 
 - Voluntary (PhD): Reading Group
 
