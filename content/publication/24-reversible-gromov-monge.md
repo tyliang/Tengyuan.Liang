@@ -1,6 +1,6 @@
 +++
 title = "Reversible Gromov-Monge Sampler for Simulation-Based Inference"
-date = 2021-09-28
+date = 2023-11-20
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -15,11 +15,11 @@ authors = ["YoonHaeng Hur", "Wenxuan Guo", "Tengyuan Liang"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "arXiv:2109.14090"
-publication_short = "arXiv:2109.14090"
+publication = "*SIAM Journal on Mathematics of Data Science*"
+publication_short = "*SIAM Journal on Mathematics of Data Science*"
 
 # Abstract and optional shortened version.
 abstract = "This paper introduces a new simulation-based inference procedure to model and sample from multi-dimensional probability distributions given access to i.i.d. samples, circumventing usual approaches of explicitly modeling the density function or designing Markov chain Monte Carlo. Motivated by the seminal work of Memoli (2011) and Sturm (2012) on distance and isomorphism between metric measure spaces, we propose a new notion called the Reversible Gromov-Monge (RGM) distance and study how RGM can be used to design new transform samplers in order to perform simulation-based inference. Our RGM sampler can also estimate optimal alignments between two heterogenous metric measure spaces from empirical data sets, with estimated maps that approximately push forward one measure to the other, and vice versa. Analytic properties of RGM distance are derived; statistical rate of convergence, representation, and optimization questions regarding the induced sampler are studied. Synthetic and real-world examples showcasing the effectiveness of the RGM sampler are also demonstrated."
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -42,7 +42,7 @@ selected = true
 tags = ["Machine Learning (stat.ML)", "Learning (cs.LG)", "Statistics Theory (math.ST)", "Methodology (stat.ME)"]
 
 # Links (optional).
-url_pdf = "pdf/preprint-Hur-Guo-Liang-21.pdf"
+url_pdf = "pdf/23-Hur-Guo-Liang-SIMODS.pdf"
 url_preprint = "https://arxiv.org/abs/2109.14090"
 url_code = ""
 url_dataset = ""
