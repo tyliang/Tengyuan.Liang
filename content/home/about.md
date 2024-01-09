@@ -33,7 +33,7 @@ I am a [Professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-lia
 
 Some topics I currently work on include experimental design, distribution shifts, optimal transport, and applied artificial intelligence in business.
 
-My research is supported by the NSF CAREER grant and the William Ladany faculty fellowship. My current research aims to:
+My research is supported by the NSF CAREER grant and the William Ladany faculty fellowship. My research aims to:
 
 - bridge the empirical and theoretical gap in modern statistical learning;
 - understand optimization and inference of infinite-dimensional models;
