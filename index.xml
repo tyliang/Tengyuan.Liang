@@ -13,7 +13,7 @@
     <item>
       <title>Reversible Gromov-Monge Sampler for Simulation-Based Inference</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/24-reversible-gromov-monge/</link>
-      <pubDate>Mon, 20 Nov 2023 00:00:00 -0600</pubDate>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/24-reversible-gromov-monge/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>Randomization Inference When N Equals One</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/n-of-1-randomization/</link>
-      <pubDate>Sat, 07 Oct 2023 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 07 Oct 2023 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/n-of-1-randomization/</guid>
       <description></description>
@@ -31,7 +31,7 @@
     <item>
       <title>High-Dimensional Asymptotics of Langevin Dynamics in Spiked Matrix Models</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/23-spike-matrix-langevin/</link>
-      <pubDate>Fri, 18 Aug 2023 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/23-spike-matrix-langevin/</guid>
       <description></description>
@@ -40,7 +40,7 @@
     <item>
       <title>Detecting Weak Distribution Shifts via Displacement Interpolation</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/detection-ot-interpolation/</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/detection-ot-interpolation/</guid>
       <description></description>
@@ -49,7 +49,7 @@
     <item>
       <title>Interpolating Classifiers Make Few Mistakes</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/22-label-interpolation/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/22-label-interpolation/</guid>
       <description></description>
@@ -58,7 +58,7 @@
     <item>
       <title>Blessings and Curses of Covariate Shifts: Adversarial Learning Dynamics, Directional Convergence, and Equilibria</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/equilibrium-covariate-shift/</link>
-      <pubDate>Sun, 04 Dec 2022 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 04 Dec 2022 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/equilibrium-covariate-shift/</guid>
       <description></description>
@@ -67,7 +67,7 @@
     <item>
       <title>Online Learning to Transport via the Minimal Selection Principle</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</link>
-      <pubDate>Sun, 15 May 2022 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</guid>
       <description></description>
@@ -76,7 +76,7 @@
     <item>
       <title>Universal Prediction Band via Semi-Definite Programming</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/20-prediction-band/</link>
-      <pubDate>Sat, 14 May 2022 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/20-prediction-band/</guid>
       <description></description>
@@ -85,7 +85,7 @@
     <item>
       <title>A Precise High-Dimensional Asymptotic Theory for Boosting and Minimum-L1-Norm Interpolated Classifiers</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/19-max-l1-margin/</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 -0600</pubDate>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/19-max-l1-margin/</guid>
       <description></description>
@@ -94,7 +94,7 @@
     <item>
       <title>Mehler’s Formula, Branching Process, and Compositional Kernels of Deep Neural Networks</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</guid>
       <description></description>
@@ -103,7 +103,7 @@
     <item>
       <title>How Well Generative Adversarial Networks Learn Distributions</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</link>
-      <pubDate>Tue, 07 Sep 2021 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</guid>
       <description></description>
@@ -112,7 +112,7 @@
     <item>
       <title>Deep Neural Networks for Estimation and Inference</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/16-deep-ate/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/16-deep-ate/</guid>
       <description></description>
@@ -121,7 +121,7 @@
     <item>
       <title>Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 -0600</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</guid>
       <description></description>
@@ -130,7 +130,7 @@
     <item>
       <title>On the Multiple Descent of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/15-multi-descent-kernel/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 -0500</pubDate>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/15-multi-descent-kernel/</guid>
       <description></description>
@@ -139,7 +139,7 @@
     <item>
       <title>Just Interpolate: Kernel &#39;&#39;Ridgeless&#39;&#39; Regression Can Generalize</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</link>
-      <pubDate>Sat, 08 Feb 2020 00:00:00 -0600</pubDate>
+      <pubDate>Sat, 08 Feb 2020 00:00:00 +0800</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</guid>
       <description></description>
