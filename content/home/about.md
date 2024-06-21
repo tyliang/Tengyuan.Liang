@@ -29,11 +29,9 @@ weight = 5
 
 # Biography
 
-[This site is no longer updated. The new site is under construction and will be available soon.](https://tyliang.github.io)
+[This site is no longer updated. The new site is under construction and can be found here.](https://tyliang.github.io)
 
 I am a [Professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) at the [University of Chicago](https://www.uchicago.edu), Booth School of Business. I use principles from [Learning](https://en.wikipedia.org/wiki/Computational_learning_theory) and [Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) to understand models and data. 
-
-Some topics I currently work on include: experimental design, distribution shifts, optimal transport, and applied artificial intelligence in business.
 
 My research is supported by the NSF CAREER grant and the William Ladany faculty fellowship. My research aims to:
 
