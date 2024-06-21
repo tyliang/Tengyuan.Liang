@@ -29,7 +29,7 @@ weight = 5
 
 # Biography
 
-[This site is no longer updated. The new site is under construction and can be found here.](https://tyliang.github.io)
+[This site is no longer updated. The new site is under construction and can be accessed here.](https://tyliang.github.io)
 
 I am a [Professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) at the [University of Chicago](https://www.uchicago.edu), Booth School of Business. I use principles from [Learning](https://en.wikipedia.org/wiki/Computational_learning_theory) and [Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) to understand models and data. 
 
