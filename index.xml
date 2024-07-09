@@ -11,6 +11,157 @@
     <atom:link href="/Tengyuan.Liang/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Manuscripts</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/teaching/</guid>
+      <description>&lt;!-- This is an example of using the *custom* widget to create your own homepage section.
+
+To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`. --&gt;
+
+&lt;p&gt;Booth:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;41000 (MBA): &lt;a href=&#34;https://tyliang.github.io/BUS41000/&#34; target=&#34;_blank&#34;&gt;Business Statistics&lt;/a&gt;: Winter 24, Winter 23, Fall 21, Fall 20, Fall 19, Fall 18, Spring 18&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;41918 (PhD): &lt;a href=&#34;https://tyliang.github.io/BUS41918/&#34; target=&#34;_blank&#34;&gt;Data, Learning, and Algorithms&lt;/a&gt;: Winter 24&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lecture 1: &lt;a href=&#34;pdf/DLA-Lecture/Lecture-1.pdf&#34; target=&#34;_blank&#34;&gt;(Randomized) Dimension Reduction&lt;/a&gt;: randomized linear algebra, dimension reduction, and data visualization. &lt;a href=&#34;pdf/DLA-Lecture/Lecture-1.html&#34; target=&#34;_blank&#34;&gt;Python Notebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 2: &lt;a href=&#34;pdf/DLA-Lecture/Lecture-2.pdf&#34; target=&#34;_blank&#34;&gt;Resampling and Inference&lt;/a&gt;: computer age inference, simulation-based and resampling method.&lt;/li&gt;
+&lt;li&gt;Lecture 3: &lt;a href=&#34;pdf/DLA-Lecture/Lecture-3.pdf&#34; target=&#34;_blank&#34;&gt;What If&lt;/a&gt;: causal inference in theory and practice, causal structural models, do-calculus, adjustments formula using supervised learning.&lt;/li&gt;
+&lt;li&gt;Lecture 4: &lt;a href=&#34;pdf/DLA-Lecture/Lecture-4.pdf&#34; target=&#34;_blank&#34;&gt;No Regret&lt;/a&gt;: online algorithms and optimization, sequential investments, universal portfolios. &lt;a href=&#34;pdf/DLA-Lecture/Lecture-4.html&#34; target=&#34;_blank&#34;&gt;Python Notebook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Lecture 5: &lt;a href=&#34;pdf/DLA-Lecture/Lecture-5.pdf&#34; target=&#34;_blank&#34;&gt;Explore vs. Exploit I&lt;/a&gt;: sequential decision making, dynamic programming and its approximations, and reinforcement learning techniques including Q-learning and policy gradients.&lt;/li&gt;
+&lt;li&gt;Lecture 6: &lt;a href=&#34;pdf/DLA-Lecture/Lecture-6.pdf&#34; target=&#34;_blank&#34;&gt;Explore vs. Exploit II&lt;/a&gt;: stochastic and adversarial bandits, exploration and exploitation, upper confidence bound algorithm, explore-then-commit algorithm, exponential weight algorithm.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Voluntary (PhD): Reading Group&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Wharton:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;622 (MBA): Advanced Quantitative Modeling: Spring 15, Spring 14&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Awards</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/awards/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/awards/</guid>
+      <description>&lt;!-- This is an example of using the *custom* widget to create your own homepage section.
+
+To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`. --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;NSF CAREER Award, 2021-2026&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;William Ladany Faculty Fellow, 2022-2023&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;William S. Fishman Faculty Scholar, 2021-2022&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;George C. Tiao Faculty Fellowship, 2017-2021&lt;br /&gt;
+&lt;sub&gt;&lt;em&gt;for research in computational and data science&lt;/em&gt;&lt;/sub&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;J. Parker Memorial Bursk Award, 2016&lt;br /&gt;
+&lt;sub&gt;&lt;em&gt;for excellence in research&lt;/em&gt;&lt;/sub&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;US Junior Oberwolfach Fellow, 2015&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Winkelman Fellowship, 2014-2017&lt;br /&gt;
+&lt;sub&gt;&lt;em&gt;the highest honorific fellowship awarded by the Wharton School&lt;/em&gt;&lt;/sub&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Professional Service</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/service/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/service/</guid>
+      <description>&lt;!-- This is an example of using the *custom* widget to create your own homepage section.
+
+To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`. --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Associate Editor, &lt;em&gt;&lt;a href=&#34;https://pubsonline.informs.org/journal/opre&#34; target=&#34;_blank&#34;&gt;Operations Research&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Editorial Board, &lt;em&gt;&lt;a href=&#34;https://www.jmlr.org&#34; target=&#34;_blank&#34;&gt;Journal of Machine Learning Research&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Senior Program Committee, &lt;em&gt;&lt;a href=&#34;https://www.learningtheory.org&#34; target=&#34;_blank&#34;&gt;Conference on Learning Theory (COLT)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops &amp; Talks</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://tyliang.github.io/Tengyuan.Liang/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://tyliang.github.io/Tengyuan.Liang/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reversible Gromov-Monge Sampler for Simulation-Based Inference</title>
       <link>http://tyliang.github.io/Tengyuan.Liang/publication/24-reversible-gromov-monge/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 -0600</pubDate>
@@ -52,96 +203,6 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 -0600</pubDate>
       
       <guid>http://tyliang.github.io/Tengyuan.Liang/publication/22-label-interpolation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blessings and Curses of Covariate Shifts: Adversarial Learning Dynamics, Directional Convergence, and Equilibria</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/equilibrium-covariate-shift/</link>
-      <pubDate>Sun, 04 Dec 2022 00:00:00 -0600</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/equilibrium-covariate-shift/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online Learning to Transport via the Minimal Selection Principle</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</link>
-      <pubDate>Sun, 15 May 2022 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/21-learning-to-transport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Universal Prediction Band via Semi-Definite Programming</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/20-prediction-band/</link>
-      <pubDate>Sat, 14 May 2022 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/20-prediction-band/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Precise High-Dimensional Asymptotic Theory for Boosting and Minimum-L1-Norm Interpolated Classifiers</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/19-max-l1-margin/</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 -0600</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/19-max-l1-margin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mehler’s Formula, Branching Process, and Compositional Kernels of Deep Neural Networks</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 -0600</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/17-mehler-kernel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Well Generative Adversarial Networks Learn Distributions</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</link>
-      <pubDate>Tue, 07 Sep 2021 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/18-nonparam-gan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Neural Networks for Estimation and Inference</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/16-deep-ate/</link>
-      <pubDate>Wed, 13 Jan 2021 00:00:00 -0600</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/16-deep-ate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Training Neural Networks as Learning Data-adaptive Kernels: Provable Representation and Approximation Benefits</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 -0600</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/14-kernel-nn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the Multiple Descent of Minimum-Norm Interpolants and Restricted Lower Isometry of Kernels</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/15-multi-descent-kernel/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 -0500</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/15-multi-descent-kernel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Just Interpolate: Kernel &#39;&#39;Ridgeless&#39;&#39; Regression Can Generalize</title>
-      <link>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</link>
-      <pubDate>Sat, 08 Feb 2020 00:00:00 -0600</pubDate>
-      
-      <guid>http://tyliang.github.io/Tengyuan.Liang/publication/12-interpolation/</guid>
       <description></description>
     </item>
     
