@@ -218,10 +218,10 @@ defaultContentLanguageInSubdir = false
   #
   #   Full list: https://jpswalsh.github.io/academicons/
 
-  # [[params.social]]
-  #   icon = "envelope"
-  #   icon_pack = "fa"
-  #   link = "mailto:tengyuan.liang@chicagobooth.edu"
+  [[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+    link = "mailto:tengyuan.liang@chicagobooth.edu"
   
   # # [[params.social]]
   # #   icon = "twitter"
@@ -234,10 +234,10 @@ defaultContentLanguageInSubdir = false
   #   link = "https://www.semanticscholar.org/author/Tengyuan-Liang/9448283?sort=velocity"
 
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.com/citations?hl=en&user=6GTMYNEAAAAJ&view_op=list_works&sortby=pubdate"
+  # [[params.social]]
+  #   icon = "google-scholar"
+  #   icon_pack = "ai"
+  #   link = "https://scholar.google.com/citations?hl=en&user=6GTMYNEAAAAJ&view_op=list_works&sortby=pubdate"
   
   # [[params.social]]
   #   icon = "cv"
@@ -267,25 +267,25 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 
-[[menu.main]]
-  name = "Research"
-  url = "#publications_selected"
-  weight = 2
+# [[menu.main]]
+#   name = "Research"
+#   url = "#publications_selected"
+#   weight = 2
 
 # [[menu.main]]
 #   name = "Posts"
 #   url = "#posts"
 #   weight = 3
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 3
-
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 4
+# [[menu.main]]
+#   name = "Teaching"
+#   url = "#teaching"
+#   weight = 3
+#
+# [[menu.main]]
+#   name = "Talks"
+#   url = "#talks"
+#   weight = 4
 
 # [[menu.main]]
 #   name = "Contact"
@@ -297,11 +297,11 @@ defaultContentLanguageInSubdir = false
 #   url = "pdf/Liang-CV.pdf"
 #   weight = 0
 
-# Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+# # Taxonomies.
+# [taxonomies]
+#   tag = "tags"
+#   category = "categories"
+#   publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.

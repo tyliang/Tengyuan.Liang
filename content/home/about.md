@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Statistical Inference",
-    "Statistical Learning",
+    "Learning Theory",
     "Stochastic Optimization",
 	"AI $\\cap$ Econ."
   ]
@@ -33,10 +33,10 @@ weight = 5
 
 I am a [Professor](https://www.chicagobooth.edu/faculty/directory/l/tengyuan-liang) at the [University of Chicago](https://www.uchicago.edu), Booth School of Business. I use principles from [Learning](https://en.wikipedia.org/wiki/Computational_learning_theory) and [Statistics](https://en.wikipedia.org/wiki/Mathematical_statistics) to understand models and data. 
 
-My research is supported by the NSF CAREER grant and the William Ladany faculty fellowship. My research aims to:
+<!-- My research is supported by the NSF CAREER grant and the William Ladany faculty fellowship. My research aims to:
 
 - bridge the empirical and theoretical gap in modern statistical learning;
 - understand optimization and inference of infinite-dimensional models;
-- explore the role of stochasticity in solving non-convex optimization.
+- explore the role of stochasticity in solving non-convex optimization. -->
 
 <!-- His CV can be found [here](pdf/Liang-CV.pdf). -->
